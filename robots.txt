@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://www.maxani.cu.ma/sitemap.xml
+
+User-agent: googlebot
+Disallow:
