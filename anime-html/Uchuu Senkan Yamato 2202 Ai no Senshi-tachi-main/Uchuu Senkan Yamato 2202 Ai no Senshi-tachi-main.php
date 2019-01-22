@@ -2,22 +2,22 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Uchuu Senkan Yamato 2202 Ai no Senshi-tachi - maxani</title>
-=======
+  
 	<title>Uchuu Senkan Yamato 2202 Ai no Senshi-tachi - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Uchuu Senkan Yamato 2202 Ai no Senshi-tachi, Uchuu Senkan Yamato 2202 Ai no Senshi-tachi subbed english ">
 	<meta name="keywords" content=" Uchuu Senkan Yamato 2202 Ai no Senshi-tachi, Uchuu Senkan Yamato 2202 Ai no Senshi-tachi episode 1 , watch and download Uchuu Senkan Yamato 2202 Ai no Senshi-tachi episode 2, watch and download  Uchuu Senkan Yamato 2202 Ai no Senshi-tachi episode 3, Uchuu Senkan Yamato 2202 Ai no Senshi-tachi" >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

@@ -2,22 +2,22 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Tachibanakan Triangle - maxani</title>
-=======
+  
 	<title>Tachibanakan Triangle - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Tachibanakan Triangle, Tachibanakan Triangle subbed english ">
 	<meta name="keywords" content=" Tachibanakan Triangle, Tachibanakan Triangle episode 1 , watch and download Tachibanakan Triangle episode 2, watch and download  Tachibanakan Triangle episode 3, Tachibanakan Triangle" >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

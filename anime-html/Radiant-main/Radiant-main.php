@@ -2,22 +2,22 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Radiant - maxani</title>
-=======
+  
 	<title>Radiant - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Radiant, Radiant subbed english ">
 	<meta name="keywords" content=" Radiant, Radiant episode 1 , watch and download Radiant episode 2, watch and download  Radiant episode 3, Radiant" >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");
@@ -45,8 +45,8 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
-<<<<<<< HEAD
-=======
+
+  
 				<a href="Radiant episode 15.php"><img src="../../anime_image/Radiant.jpg" alt="Radiant"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">
@@ -95,7 +95,7 @@ include("../anime_header.php");
 		</div>
 		<div class="thumb_update">
 			<div class="viewer">
->>>>>>> back with maxani
+  
 				<a href="Radiant episode 9.php"><img src="../../anime_image/Radiant.jpg" alt="Radiant"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

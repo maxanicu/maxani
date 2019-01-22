@@ -2,11 +2,11 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Otona no Bouguya-san episode 8 - maxani</title>
-=======
+  
 	<title>Otona no Bouguya-san episode 8 - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +14,11 @@
 	<meta name="description" content="Otona no Bouguya-san episode 8">
 	<meta name="description" content="Otona no Bouguya-san episode 8,Otona no Bouguya-san ep 8, Otona no Bouguya-san Ep 8 english subbed,eng sub ">
 	<meta name="keywords" content="download Otona no Bouguya-san episode 8, watch Otona no Bouguya-san episode 8, Otona no Bouguya-san " >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

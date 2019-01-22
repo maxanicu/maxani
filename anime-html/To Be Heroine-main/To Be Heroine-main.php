@@ -2,22 +2,22 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>To Be Heroine - maxani</title>
-=======
+  
 	<title>To Be Heroine - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="To Be Heroine, To Be Heroine subbed english ">
 	<meta name="keywords" content=" To Be Heroine, To Be Heroine episode 1 , To Be Heroine episode 2, To Be Heroine episode 3, To Be Heroine" >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

@@ -2,11 +2,11 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Lord of Vermilion Guren no Ou  episode 11 - maxani</title>
-=======
+  
 	<title>Lord of Vermilion Guren no Ou  episode 11 - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +14,11 @@
 	<meta name="description" content="Lord of Vermilion Guren no Ou episode 11">
 	<meta name="description" content="Lord of Vermilion Guren no Ou episode 11,Lord of Vermilion Guren no Ou ep 11, Lord of Vermilion Guren no Ou Ep 11 english subbed,eng sub ">
 	<meta name="keywords" content="download Lord of Vermilion Guren no Ou episode 11, watch Lord of Vermilion Guren no Ou episode 11, Lord of Vermilion Guren no Ou" >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

@@ -2,22 +2,22 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>persona 5 the animation - maxani</title>
-=======
+  
 	<title>persona 5 the animation - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="persona 5 the animation, persona 5 the animation subbed english ">
 	<meta name="keywords" content=" persona 5 the animation, persona 5 the animation episode 1 , watch and download persona 5 the animation episode 2, watch and download  persona 5 the animation episode 3, persona 5 the animation" >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

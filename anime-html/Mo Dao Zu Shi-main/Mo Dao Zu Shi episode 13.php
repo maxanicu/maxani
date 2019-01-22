@@ -2,11 +2,11 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Mo Dao Zu Shi episode 13 - maxani</title>
-=======
+  
 	<title>Mo Dao Zu Shi episode 13 - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +14,11 @@
 	<meta name="description" content="Mo Dao Zu Shi episode 13">
 	<meta name="description" content="Mo Dao Zu Shi episode 13,Wotaku ni Koi wa Muzukashii ep 13, Mo Dao Zu Shi Ep 13 english subbed,eng sub ">
 	<meta name="keywords" content="download Mo Dao Zu Shi episode 13, watch Mo Dao Zu Shi episode 13, Mo Dao Zu Shi " >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

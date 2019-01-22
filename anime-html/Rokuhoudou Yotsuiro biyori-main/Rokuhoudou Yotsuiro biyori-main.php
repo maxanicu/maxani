@@ -2,22 +2,22 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Rokuhoudou Yotsuiro biyori - maxani</title>
-=======
+  
 	<title>Rokuhoudou Yotsuiro biyori - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Rokuhoudou Yotsuiro biyori, Rokuhoudou Yotsuiro biyori subbed english ">
 	<meta name="keywords" content=" Rokuhoudou Yotsuiro biyori, Rokuhoudou Yotsuiro biyori episode 1 , Rokuhoudou Yotsuiro biyori episode 2, Rokuhoudou Yotsuiro biyori episode 3, Rokuhoudou Yotsuiro biyori" >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

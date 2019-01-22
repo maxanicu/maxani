@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>	
-<<<<<<< HEAD
+
 	<title>Tensei shitara Slime Datta Ken episode 5 - maxani</title>
-=======
+  
 	<title>Tensei shitara Slime Datta Ken episode 5 - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -13,11 +13,11 @@
 	<meta name="description" content="Tensei shitara Slime Datta Ken episode 5">
 	<meta name="description" content="Tensei shitara Slime Datta Ken episode 5,Tensei shitara Slime Datta Ken ep 5, Tensei shitara Slime Datta Ken Ep 5 english subbed,eng sub ">
 	<meta name="keywords" content="download Tensei shitara Slime Datta Ken episode 5, watch Tensei shitara Slime Datta Ken episode 5, Tensei shitara Slime Datta Ken " >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

@@ -2,11 +2,11 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Overload III episode 13 - maxani</title>
-=======
+  
 	<title>Overload III episode 13 - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +14,11 @@
 	<meta name="description" content="Overload III episode 13">
 	<meta name="description" content="Overload III episode 13,Overload III ep 13, Overload III Ep 13 english subbed,eng sub ">
 	<meta name="keywords" content="download Overload III episode 13, watch Overload III episode 13, Overload III " >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

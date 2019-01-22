@@ -2,11 +2,11 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Kakuriyo no Yadomeshi episode 17 - maxani</title>
-=======
+  
 	<title>Kakuriyo no Yadomeshi episode 17 - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +14,11 @@
 	<meta name="description" content="Kakuriyo no Yadomeshi episode  ">
 	<meta name="description" content="Mahou Shoujo Ore episode  17Kakuriyo no Yadomeshi ep 17, Kakuriyo no Yadomeshi Ep  17english subbed,eng sub ">
 	<meta name="keywords" content="download Kakuriyo no Yadomeshi episode 17, watch Kakuriyo no Yadomeshi episode 17, Kakuriyo no Yadomeshi " >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

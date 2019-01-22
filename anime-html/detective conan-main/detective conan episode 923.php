@@ -2,11 +2,11 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>detective conan episode 923 - maxani</title>
-=======
+  
 	<title>detective conan episode 923 - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +14,11 @@
 	<meta name="description" content="detective conan episode 923">
 	<meta name="description" content="detective conan episode 923,devils line ep 923, detective conan Ep 923 english subbed,eng sub ">
 	<meta name="keywords" content="download detective conan episode 923, watch detective conan episode 923 " >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");
@@ -39,15 +39,15 @@ include("../anime_header.php");
 			<a href="detective conan episode 922.php" class="previous round" title="Ep. 922">&#8249;</a>
 			<div class="next_inline" >
 				<a href="detective conan-main.php" class="previous margin_theme" title="home">Home</a>
-<<<<<<< HEAD
+
 				<!--
 				<a href="detective conan episode 924.php" class="next round margin_theme" title="Ep. 924">&#8250;</a>
 			-->
-=======
+  
 				
 				<a href="detective conan episode 924.php" class="next round margin_theme" title="Ep. 924">&#8250;</a>
 			
->>>>>>> back with maxani
+  
 			</div>
 		</div>
 </div>

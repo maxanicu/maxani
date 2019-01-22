@@ -2,22 +2,22 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Kaze ga Tsuyoku Fuiteiru - maxani</title>
-=======
+  
 	<title>Kaze ga Tsuyoku Fuiteiru - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Kaze ga Tsuyoku Fuiteiru, Kaze ga Tsuyoku Fuiteiru subbed english ">
 	<meta name="keywords" content=" Kaze ga Tsuyoku Fuiteiru, Kaze ga Tsuyoku Fuiteiru episode 1 , watch and download Kaze ga Tsuyoku Fuiteiru episode 2, watch and download  Kaze ga Tsuyoku Fuiteiru episode 3, Kaze ga Tsuyoku Fuiteiru" >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");
@@ -43,8 +43,8 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
-<<<<<<< HEAD
-=======
+
+  
 				<a href="Kaze ga Tsuyoku Fuiteiru episode 13.php"><img src="../../anime_image/Kaze ga Tsuyoku Fuiteiru.jpg" alt="Kaze ga Tsuyoku Fuiteiru"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">
@@ -77,7 +77,7 @@ include("../anime_header.php");
 		</div>
 		<div class="thumb_update">
 			<div class="viewer">
->>>>>>> back with maxani
+  
 				<a href="Kaze ga Tsuyoku Fuiteiru episode 9.php"><img src="../../anime_image/Kaze ga Tsuyoku Fuiteiru.jpg" alt="Kaze ga Tsuyoku Fuiteiru"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

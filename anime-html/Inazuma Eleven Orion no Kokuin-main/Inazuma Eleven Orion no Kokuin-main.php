@@ -2,22 +2,22 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Inazuma Eleven Orion no Kokuin - maxani</title>
-=======
+  
 	<title>Inazuma Eleven Orion no Kokuin - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Inazuma Eleven Orion no Kokuin, Inazuma Eleven Orion no Kokuin subbed english ">
 	<meta name="keywords" content=" Inazuma Eleven Orion no Kokuin, Inazuma Eleven Orion no Kokuin episode 1 , watch and download Inazuma Eleven Orion no Kokuin episode 2, watch and download  Inazuma Eleven Orion no Kokuin episode 3, Inazuma Eleven Orion no Kokuin" >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");
@@ -42,8 +42,8 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
-<<<<<<< HEAD
-=======
+
+  
 				<a href="Inazuma Eleven Orion no Kokuin episode 12.php"><img src="../../anime_image/Inazuma Eleven Orion no Kokuin.jpg" alt="Inazuma Eleven Orion no Kokuin"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">
@@ -76,7 +76,7 @@ include("../anime_header.php");
 		</div>
 		<div class="thumb_update">
 			<div class="viewer">
->>>>>>> back with maxani
+  
 				<a href="Inazuma Eleven Orion no Kokuin episode 8.php"><img src="../../anime_image/Inazuma Eleven Orion no Kokuin.jpg" alt="Inazuma Eleven Orion no Kokuin"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

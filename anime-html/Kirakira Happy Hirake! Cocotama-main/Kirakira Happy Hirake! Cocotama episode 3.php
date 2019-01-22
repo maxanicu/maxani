@@ -2,11 +2,11 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Kirakira Happy Hirake! Cocotama episode 3 - maxani</title>
-=======
+  
 	<title>Kirakira Happy Hirake! Cocotama episode 3 - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=2, viewport-fit=cover">
@@ -14,11 +14,11 @@
 	<meta name="description" content="download naruto shippuden episode 278, naruto folge 299, naruto shippuuden folge 115, naruto shippuden episode 205, naruto shippuuden folge 216, naruto shippuden episode 171, naruto shippuden episode 446, naruto shippuden episode 431, naruto shippuuden folge 311, naruto folge 342, naruto shippuden episode 409, naruto shippuden episode 490,Kirakira Happy Hirake! Cocotama episode 3">
 	<meta name="description" content="download naruto shippuden episode 278, naruto folge 299, naruto shippuuden folge 115, naruto shippuden episode 205, naruto shippuuden folge 216, naruto shippuden episode 171, naruto shippuden episode 446, naruto shippuden episode 431, naruto shippuuden folge 311, naruto folge 342, naruto shippuden episode 409, naruto shippuden episode 490,Kirakira Happy Hirake! Cocotama episode 3,Kirakira Happy Hirake! Cocotama ep 3, Kirakira Happy Hirake! Cocotama Ep 3 english subbed,eng sub ">
 	<meta name="keywords" content="download naruto shippuden episode 278, naruto folge 299, naruto shippuuden folge 115, naruto shippuden episode 205, naruto shippuuden folge 216, naruto shippuden episode 171, naruto shippuden episode 446, naruto shippuden episode 431, naruto shippuuden folge 311, naruto folge 342, naruto shippuden episode 409, naruto shippuden episode 490,download naruto shippuden episode 278, naruto folge 299, naruto shippuuden folge 115, naruto shippuden episode 205, naruto shippuuden folge 216, naruto shippuden episode 171, naruto shippuden episode 446, naruto shippuden episode 431, naruto shippuuden folge 311, naruto folge 342, naruto shippuden episode 409, naruto shippuden episode 490, naruto shippuden episode 278, naruto folge 299, naruto shippuuden folge 115, naruto shippuden episode 205, naruto shippuuden folge 216, naruto shippuden episode 171, naruto shippuden episode 446, naruto shippuden episode 431, naruto shippuuden folge 311, naruto folge 342, naruto shippuden episode 409, naruto shippuden episode 490, Kirakira Happy Hirake! Cocotama episode 3, watch Kirakira Happy Hirake! Cocotama episode 3, Kirakira Happy Hirake! Cocotama " >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

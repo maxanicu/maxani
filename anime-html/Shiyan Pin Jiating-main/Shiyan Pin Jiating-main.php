@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>	
-<<<<<<< HEAD
+
 	<title>Shiyan Pin Jiating - maxani</title>
-=======
+  
 	<title>Shiyan Pin Jiating - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Shiyan Pin Jiating, Shiyan Pin Jiatingenglish sub ">
 	<meta name="keywords" content=" Shiyan Pin Jiating, Shiyan Pin Jiating episode 1 , watch and download Shiyan Pin Jiating episode 2, watch and download  Shiyan Pin Jiating episode 3, watch and download  Shiyan Pin Jiating episode 4, Shiyan Pin Jiating" >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

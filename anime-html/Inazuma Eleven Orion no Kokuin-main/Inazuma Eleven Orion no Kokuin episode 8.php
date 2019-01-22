@@ -2,11 +2,11 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Inazuma Eleven Orion no Kokuin episode 8 - maxani</title>
-=======
+  
 	<title>Inazuma Eleven Orion no Kokuin episode 8 - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +14,11 @@
 	<meta name="description" content="Inazuma Eleven Orion no Kokuin episode 8">
 	<meta name="description" content="Inazuma Eleven Orion no Kokuin episode 8,Inazuma Eleven Orion no Kokuin ep 8, Inazuma Eleven Orion no Kokuin Ep 8 english subbed,eng sub ">
 	<meta name="keywords" content="download Inazuma Eleven Orion no Kokuin episode 8, watch Inazuma Eleven Orion no Kokuin episode 8, Inazuma Eleven Orion no Kokuin " >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");
@@ -38,13 +38,13 @@ include("../anime_header.php");
 	<div style=" margin-top: 30px;" class="margin_theme margin">
 		<a href="Inazuma Eleven Orion no Kokuin episode 7.php" class="previous round" title="Ep. 7">&#8249;</a>
 		<a href="Inazuma Eleven Orion no Kokuin-main.php" class="previous " title="Home">Home</a>
-<<<<<<< HEAD
+
 		<!--
 		<a href="Inazuma Eleven Orion no Kokuin episode 9.php" class="next round margin_theme" title="Ep. 9">&#8250;</a> -->
-=======
+  
 		
 		<a href="Inazuma Eleven Orion no Kokuin episode 9.php" class="next round margin_theme" title="Ep. 9">&#8250;</a> 
->>>>>>> back with maxani
+  
 	</div>
 </div>
 <?php

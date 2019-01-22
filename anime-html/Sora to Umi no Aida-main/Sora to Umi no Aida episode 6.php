@@ -2,11 +2,11 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Sora to Umi no Aida episode 6 - maxani</title>
-=======
+  
 	<title>Sora to Umi no Aida episode 6 - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +14,11 @@
 	<meta name="description" content="Sora to Umi no Aida episode 6">
 	<meta name="description" content="Sora to Umi no Aida episode 6,Sora to Umi no Aida ep 6, Sora to Umi no Aida Ep 6 english subbed,eng sub ">
 	<meta name="keywords" content="download Sora to Umi no Aida episode 6, watch Sora to Umi no Aida episode 6, Sora to Umi no Aida " >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

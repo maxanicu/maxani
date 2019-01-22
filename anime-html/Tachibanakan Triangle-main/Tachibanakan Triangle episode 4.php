@@ -2,11 +2,11 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Tachibanakan Triangle episode 4 - maxani</title>
-=======
+  
 	<title>Tachibanakan Triangle episode 4 - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +14,11 @@
 	<meta name="description" content="Tachibanakan Triangle episode 4">
 	<meta name="description" content="Tachibanakan Triangle episode 4,Tachibanakan Triangle ep 4, Tachibanakan Triangle Ep 4 english subbed,eng sub ">
 	<meta name="keywords" content="download Tachibanakan Triangle episode 4, watch Tachibanakan Triangle episode 4, Tachibanakan Triangle " >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

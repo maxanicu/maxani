@@ -2,22 +2,22 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo - maxani</title>
-=======
+  
 	<title>Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo, Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo subbed english ">
 	<meta name="keywords" content=" Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo, Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo episode 1 , watch and download Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo episode 2, watch and download  Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo episode 3, Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo" >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");
@@ -44,8 +44,8 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
-<<<<<<< HEAD
-=======
+
+  
 				<a href="Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo episode 13.php"><img src="../../anime_image/Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo
 				.jpg" alt="Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo"  class="img_gemeral"></a>
 			</div>
@@ -82,7 +82,7 @@ include("../anime_header.php");
 		</div>
 		<div class="thumb_update">
 			<div class="viewer">
->>>>>>> back with maxani
+  
 				<a href="Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo episode 9.php"><img src="../../anime_image/Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo
 				.jpg" alt="Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo"  class="img_gemeral"></a>
 			</div>

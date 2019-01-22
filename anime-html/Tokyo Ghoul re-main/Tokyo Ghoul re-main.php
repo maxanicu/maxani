@@ -2,22 +2,22 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Tokyo Ghoul:re - maxani</title>
-=======
+  
 	<title>Tokyo Ghoul:re - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Tokyo Ghoul:re, Tokyo Ghoul:re english sub ">
 	<meta name="keywords" content=" Tokyo Ghoul:re, Tokyo Ghoul:re episode 1 , watch and download Tokyo Ghoul:re episode 2, watch and download  Tokyo Ghoul:re episode 3, watch and download  Tokyo Ghoul:re episode 4, Tokyo Ghoul:re" >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

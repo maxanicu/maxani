@@ -40,11 +40,11 @@ nav{
 	padding-bottom: 10px;
   z-index:1;
   border-bottom: 1px solid #171717;
-<<<<<<< HEAD
-=======
+
+  
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
->>>>>>> back with maxani
+  
 }
 #disqus_thread{
     background: #101010;

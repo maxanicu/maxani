@@ -2,22 +2,22 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Yu☆Gi☆Oh! VRAINS - maxani</title>
-=======
+  
 	<title>Yu☆Gi☆Oh! VRAINS - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Yu☆Gi☆Oh! VRAINS, Yu☆Gi☆Oh! VRAINS subbed english ">
 	<meta name="keywords" content=" Yu☆Gi☆Oh! VRAINS, Yu☆Gi☆Oh! VRAINS episode 1 , Yu☆Gi☆Oh! VRAINS episode 2, Yu☆Gi☆Oh! VRAINS episode 3, Yu☆Gi☆Oh! VRAINS" >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.jpg" type="image/x-icon">
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.jpg" type="image/x-icon">
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");
@@ -46,8 +46,8 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
-<<<<<<< HEAD
-=======
+
+  
 				<a href="Yu Gi Oh! VRAINS episode 85.php"><img src="../../anime_image/Yu Gi Oh! VRAINS.jpg" alt="Yu☆Gi☆Oh! VRAINS"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">
@@ -88,7 +88,7 @@ include("../anime_header.php");
 		</div>
 		<div class="thumb_update">
 			<div class="viewer">
->>>>>>> back with maxani
+  
 				<a href="Yu Gi Oh! VRAINS episode 80.php"><img src="../../anime_image/Yu Gi Oh! VRAINS.jpg" alt="Yu☆Gi☆Oh! VRAINS"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

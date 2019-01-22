@@ -2,11 +2,11 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>nanatsu-no-taizai-imashime-no-fukkatsu - maxani</title>
-=======
+  
 	<title>nanatsu-no-taizai-imashime-no-fukkatsu - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -15,11 +15,11 @@
 	<meta name="keywords" content="download nanatsu no taizai episode 15, watch nanatsu no taizai episode 15, nanatsu no taizai" >
 	<meta name="description" content="">
 	<meta name="keywords" content="" >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

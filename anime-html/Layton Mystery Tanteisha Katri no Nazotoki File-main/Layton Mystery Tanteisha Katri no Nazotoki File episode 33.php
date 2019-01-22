@@ -2,11 +2,11 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Layton Mystery Tanteisha Katri no Nazotoki File episode 33 - maxani</title>
-=======
+  
 	<title>Layton Mystery Tanteisha Katri no Nazotoki File episode 33 - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +14,11 @@
 	<meta name="description" content="Layton Mystery Tanteisha Katri no Nazotoki File episode 33">
 	<meta name="description" content="Layton Mystery Tanteisha Katri no Nazotoki File episode 33,Layton Mystery Tanteisha Katri no Nazotoki File ep 33, Layton Mystery Tanteisha Katri no Nazotoki File Ep 33 english subbed,eng sub ">
 	<meta name="keywords" content="download Layton Mystery Tanteisha Katri no Nazotoki File episode 33, watch Layton Mystery Tanteisha Katri no Nazotoki File episode 33, Layton Mystery Tanteisha Katri no Nazotoki File " >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");
@@ -38,13 +38,13 @@ include("../anime_header.php");
 	<div style=" margin-top: 30px;" class="margin_theme margin">
 		<a href="Layton Mystery Tanteisha Katri no Nazotoki File episode 32.php" class="previous round" title="Ep.32">&#8249;</a>
 		<a href="Layton Mystery Tanteisha Katri no Nazotoki File-main.php" class="previous " title="Home">Home</a>
-<<<<<<< HEAD
+
 		<!--
 		<a href="Layton Mystery Tanteisha Katri no Nazotoki File episode 34.php" class="next round margin_theme" title="Ep.34">&#8250;</a> -->
-=======
+  
 		
 		<a href="Layton Mystery Tanteisha Katri no Nazotoki File episode 34.php" class="next round margin_theme" title="Ep.34">&#8250;</a> 
->>>>>>> back with maxani
+  
 	</div>
 </div>
 <?php

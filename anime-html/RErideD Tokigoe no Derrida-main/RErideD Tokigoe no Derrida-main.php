@@ -2,22 +2,22 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>RErideD Tokigoe no Derrida - maxani</title>
-=======
+  
 	<title>RErideD Tokigoe no Derrida - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="RErideD Tokigoe no Derrida, RErideD Tokigoe no Derrida english sub ">
 	<meta name="keywords" content=" RErideD Tokigoe no Derrida, RErideD Tokigoe no Derrida episode 1 , watch and download RErideD Tokigoe no Derrida episode 2, RErideD Tokigoe no Derrida" >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

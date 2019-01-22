@@ -2,11 +2,11 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Koneko no Chii Ponponraa Dairyokou episode 19 - maxani</title>
-=======
+  
 	<title>Koneko no Chii Ponponraa Dairyokou episode 19 - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +14,11 @@
 	<meta name="description" content="Koneko no Chii Ponponraa Dairyokou episode 19">
 	<meta name="description" content="Koneko no Chii Ponponraa Dairyokou episode 19,Koneko no Chii Ponponraa Dairyokou ep 19, Koneko no Chii Ponponraa Dairyokou Ep 19 english subbed,eng sub ">
 	<meta name="keywords" content="download Koneko no Chii Ponponraa Dairyokou episode 19, watch Koneko no Chii Ponponraa Dairyokou episode 19, Koneko no Chii Ponponraa Dairyokou " >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

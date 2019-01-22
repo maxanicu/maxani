@@ -2,11 +2,11 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>inazuma eleven ares no tenbin episod 13 - maxani</title>
-=======
+  
 	<title>inazuma eleven ares no tenbin episod 13 - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +14,11 @@
 	<meta name="description" content="inazuma eleven ares no tenbin  episode 13">
 	<meta name="description" content="inazuma eleven ares no tenbin   episode 13, inazuma eleven ares no tenbin   episode 13 sub eng, inazuma eleven ares no tenbin   episode 13 subbed english">
 	<meta name="keywords" content="inazuma eleven ares no tenbin   episode 13, inazuma eleven ares no tenbin  episode 13, inazuma eleven ares no tenbin  " >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

@@ -2,11 +2,11 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Pokemon Sun & Moon episode 77 - maxani</title>
-=======
+  
 	<title>Pokemon Sun & Moon episode 77 - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +14,11 @@
 	<meta name="description" content="Pokemon Sun & Moon episode 77">
 	<meta name="description" content="Pokemon Sun & Moon episode 77,Pokemon Sun & Moon ep 77, Pokemon Sun & Moon Ep 77 english subbed,eng sub ">
 	<meta name="keywords" content="download Pokemon Sun & Moon episode 77, watch Pokemon Sun & Moon episode 77, Pokemon Sun & Moon " >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

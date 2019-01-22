@@ -2,11 +2,11 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Kirakira Happy Hirake! Cocotama episode 2 - maxani</title>
-=======
+  
 	<title>Kirakira Happy Hirake! Cocotama episode 2 - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=2, viewport-fit=cover">
@@ -14,11 +14,11 @@
 	<meta name="description" content="Kirakira Happy Hirake! Cocotama episode 2">
 	<meta name="description" content="Kirakira Happy Hirake! Cocotama episode 2,Kirakira Happy Hirake! Cocotama ep 2, Kirakira Happy Hirake! Cocotama Ep 2 english subbed,eng sub ">
 	<meta name="keywords" content="download Kirakira Happy Hirake! Cocotama episode 2, watch Kirakira Happy Hirake! Cocotama episode 2, Kirakira Happy Hirake! Cocotama " >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

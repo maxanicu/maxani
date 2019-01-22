@@ -2,11 +2,11 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Pokemon Sun & Moon - maxani</title>
-=======
+  
 	<title>Pokemon Sun & Moon - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +14,11 @@
 	<meta name="description" content="Pokemon Sun & Moon, Pokemon Sun & Moon subbed english ">
 	<meta name="keywords" content="
 Pokemon Sun & Moon, Pokemon Sun & Moon episode 1 , Pokemon Sun & Moon episode 2, Pokemon Sun & Moon episode 3, Pokemon Sun & Moon" >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");
@@ -46,8 +46,8 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
-<<<<<<< HEAD
-=======
+
+  
 				<a href="Pokemon Sun & Moon episode 104.php"><img src="../../anime_image/Pokemon Sun & Moon.jpg" alt="Pokemon Sun & Moon"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">
@@ -88,7 +88,7 @@ include("../anime_header.php");
 		</div>
 		<div class="thumb_update">
 			<div class="viewer">
->>>>>>> back with maxani
+  
 				<a href="Pokemon Sun & Moon episode 99.php"><img src="../../anime_image/Pokemon Sun & Moon.jpg" alt="Pokemon Sun & Moon"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

@@ -36,6 +36,46 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="Captain Tsubasa (2018) episode 41.php"><img src="../../anime_image/Captain Tsubasa (2018).jpg" alt="Captain Tsubasa (2018)"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 41</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
+				<a href="Captain Tsubasa (2018) episode 40.php"><img src="../../anime_image/Captain Tsubasa (2018).jpg" alt="Captain Tsubasa (2018)"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 40</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
+				<a href="Captain Tsubasa (2018) episode 39.php"><img src="../../anime_image/Captain Tsubasa (2018).jpg" alt="Captain Tsubasa (2018)"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 39</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
+				<a href="Captain Tsubasa (2018) episode 38.php"><img src="../../anime_image/Captain Tsubasa (2018).jpg" alt="Captain Tsubasa (2018)"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 38</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
+				<a href="Captain Tsubasa (2018) episode 37.php"><img src="../../anime_image/Captain Tsubasa (2018).jpg" alt="Captain Tsubasa (2018)"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 37</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="Captain Tsubasa (2018) episode 36.php"><img src="../../anime_image/Captain Tsubasa (2018).jpg" alt="Captain Tsubasa (2018)"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

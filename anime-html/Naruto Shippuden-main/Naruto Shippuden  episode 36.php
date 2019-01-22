@@ -2,11 +2,11 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Naruto Shippuden  36 - maxani</title>
-=======
+  
 	<title>Naruto Shippuden  36 - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +14,11 @@
 	<meta name="description" content="Naruto Shippuden  36">
 	<meta name="description" content="Naruto Shippuden  36,Naruto Shippuden  ep 36, Naruto Shippuden  Ep 36 english subbed,eng sub ">
 	<meta name="keywords" content="download Naruto Shippuden  36, watch Naruto Shippuden  36, Naruto Shippuden  " >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

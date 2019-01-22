@@ -2,22 +2,22 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Irozuku Sekai no Ashita kara - maxani</title>
-=======
+  
 	<title>Irozuku Sekai no Ashita kara - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Irozuku Sekai no Ashita kara, Irozuku Sekai no Ashita kara subbed english ">
 	<meta name="keywords" content=" Irozuku Sekai no Ashita kara, Irozuku Sekai no Ashita kara episode 1 , watch and download Irozuku Sekai no Ashita kara episode 2, watch and download  Irozuku Sekai no Ashita kara episode 3, Irozuku Sekai no Ashita kara" >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");
@@ -44,8 +44,8 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
-<<<<<<< HEAD
-=======
+
+  
 				<a href="Irozuku Sekai no Ashita kara episode 13.php"><img src="../../anime_image/Irozuku Sekai no Ashita kara.jpg" alt="Irozuku Sekai no Ashita kara"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">
@@ -70,7 +70,7 @@ include("../anime_header.php");
 		</div>
 		<div class="thumb_update">
 			<div class="viewer">
->>>>>>> back with maxani
+  
 				<a href="Irozuku Sekai no Ashita kara episode 10.php"><img src="../../anime_image/Irozuku Sekai no Ashita kara.jpg" alt="Irozuku Sekai no Ashita kara"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

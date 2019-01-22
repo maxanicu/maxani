@@ -2,11 +2,11 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Kishuku Gakkou no Juliet episode 8 - maxani</title>
-=======
+  
 	<title>Kishuku Gakkou no Juliet episode 8 - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +14,11 @@
 	<meta name="description" content="Kishuku Gakkou no Juliet episode 8">
 	<meta name="description" content="Kishuku Gakkou no Juliet episode 8,Kishuku Gakkou no Juliet ep 8, Kishuku Gakkou no Juliet Ep 8 english subbed,eng sub ">
 	<meta name="keywords" content="download Kishuku Gakkou no Juliet episode 8, watch Kishuku Gakkou no Juliet episode 8, Kishuku Gakkou no Juliet " >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

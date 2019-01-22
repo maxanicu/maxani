@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>	
-<<<<<<< HEAD
+
 	<title>Sword Art Online Alicization episode 9 - maxani</title>
-=======
+  
 	<title>Sword Art Online Alicization episode 9 - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -13,11 +13,11 @@
 	<meta name="description" content="Sword Art Online Alicization episode 9">
 	<meta name="description" content="Sword Art Online Alicization episode 9,Sword Art Online Alicization ep 9, Sword Art Online Alicization Ep 9 english subbed,eng sub ">
 	<meta name="keywords" content="download Sword Art Online Alicization episode 9, watch Sword Art Online Alicization episode 9, Sword Art Online Alicization " >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");
@@ -38,13 +38,13 @@ include("../anime_header.php");
 			<a href="Sword Art Online Alicization episode 8.php" class="previous round" title="Ep. 8">&#8249;</a>
 			<div class="next_inline" >
 				<a href="Sword Art Online Alicization-main.php" class="previous margin_theme" title="home">Home</a>
-<<<<<<< HEAD
+
 				<!--
 				<a href="Sword Art Online Alicization episode 10.php" class="next round margin_theme" title="Ep. 10" >&#8250;</a> -->
-=======
+  
 				
 				<a href="Sword Art Online Alicization episode 10.php" class="next round margin_theme" title="Ep. 10" >&#8250;</a> 
->>>>>>> back with maxani
+  
 			</div>
 		</div>
 </div>

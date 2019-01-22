@@ -2,11 +2,11 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Hitori no Shita_ The Outcast 2nd Season episode 15 - maxani</title>
-=======
+  
 	<title>Hitori no Shita_ The Outcast 2nd Season episode 15 - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +14,11 @@
 	<meta name="description" content="Hitori no Shita_ The Outcast 2nd Season episode 15">
 	<meta name="description" content="Hitori no Shita_ The Outcast 2nd Season episode 15,Hitori no Shita_ The Outcast 2nd Season ep 15, Hitori no Shita_ The Outcast 2nd Season Ep 15 english subbed,eng sub ">
 	<meta name="keywords" content="download Hitori no Shita_ The Outcast 2nd Season episode 15, watch Hitori no Shita_ The Outcast 2nd Season episode 15, Hitori no Shita_ The Outcast 2nd Season " >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

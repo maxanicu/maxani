@@ -2,22 +2,22 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Lord of Vermilion Guren no Ou - maxani</title>
-=======
+  
 	<title>Lord of Vermilion Guren no Ou - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Lord of Vermilion Guren no Ou, Lord of Vermilion Guren no Ou english sub ">
 	<meta name="keywords" content=" Lord of Vermilion Guren no Ou, Lord of Vermilion Guren no Ou episode 1 , watch and download Lord of Vermilion Guren no Ou episode 2, Lord of Vermilion Guren no Ou" >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

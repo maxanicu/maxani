@@ -2,11 +2,11 @@
 <html lang="en">
 <head>	
  
-<<<<<<< HEAD
+
 	<title>Naruto Shippuden  episode 490 - maxani</title>
-=======
+  
 	<title>Naruto Shippuden  episode 490 - anime-world</title>
->>>>>>> back with maxani
+  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +14,11 @@
 	<meta name="description" content="Naruto Shippuden  episode 490">
 	<meta name="description" content="Naruto Shippuden  episode 490,Naruto Shippuden  ep 490, Naruto Shippuden  Ep 490 english subbed,eng sub ">
 	<meta name="keywords" content="download naruto shippuden episode 278, naruto folge 299, naruto shippuuden folge 115, naruto shippuden episode 205, naruto shippuuden folge 216, naruto shippuden episode 171, naruto shippuden episode 446, naruto shippuden episode 431, naruto shippuuden folge 311, naruto folge 342, naruto shippuden episode 409, naruto shippuden episode 490, Naruto Shippuden  episode 490, watch Naruto Shippuden  episode 490, Naruto Shippuden  " >
-<<<<<<< HEAD
+
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-=======
+  
 	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
->>>>>>> back with maxani
+  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");
