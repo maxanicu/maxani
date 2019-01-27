@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>inazuma eleven ares no tenbin - maxani</title>
-  
-	<title>inazuma eleven ares no tenbin - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="watch lupin lll: part 5 Online download free">
 	<meta name="keywords" content="inazuma eleven ares no tenbin, watch inazuma eleven ares no tenbin episode 1 ,watch and download watch inazuma eleven ares no tenbin episode 2,watch and download  inazuma eleven episode 3,watch and inazuma eleven ares no tenbin episode 4," >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

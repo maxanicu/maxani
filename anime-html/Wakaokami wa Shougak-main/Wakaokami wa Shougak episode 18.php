@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>Wakaokami wa Shougak episode 18 - maxani</title>
-  
-	<title>Wakaokami wa Shougak episode 18 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="Wakaokami wa Shougak episode 18">
 	<meta name="description" content="Wakaokami wa Shougak episode 18,Wakaokami wa Shougak ep 18, Wakaokami wa Shougak Ep 18 english subbed,eng sub ">
 	<meta name="keywords" content="download Wakaokami wa Shougak episode 18, watch Wakaokami wa Shougak episode 18, Wakaokami wa Shougak " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");
@@ -38,13 +30,8 @@ include("../anime_header.php");
 	<div style=" margin-top: 30px;" class="margin_theme margin">
 		<a href="Wakaokami wa Shougak episode 17.php" class="previous round" title="Ep. 17">&#8249;</a>
 		<a href="Wakaokami wa Shougak-main.php" class="previous " title="Home">Home</a>
-
-		<!--
-		<a href="Wakaokami wa Shougak episode 19.php" class="next round margin_theme" title="Ep. 19">&#8250;</a> -->
-  
 		
 		<a href="Wakaokami wa Shougak episode 19.php" class="next round margin_theme" title="Ep. 19">&#8250;</a> 
-  
 	</div>
 </div>
 <?php

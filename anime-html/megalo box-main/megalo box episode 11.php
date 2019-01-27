@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>megalo box episode 11 - maxani</title>
-  
-	<title>megalo box episode 11 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="megalo box episode 11">
 	<meta name="description" content="megalo box episode 11,megalo box ep 11, megalo box Ep 11 english subbed,eng sub ">
 	<meta name="keywords" content="download megalo box episode 11, watch megalo box episode 11, megalo box " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

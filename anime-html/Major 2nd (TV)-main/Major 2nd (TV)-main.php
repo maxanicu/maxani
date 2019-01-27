@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>Major 2nd (TV) - maxani</title>
-  
-	<title>Major 2nd (TV) - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Major 2nd (TV), Major 2nd (TV) subbed english ">
 	<meta name="keywords" content=" Major 2nd (TV), Major 2nd (TV) episode 1 , Major 2nd (TV) episode 2, Major 2nd (TV) episode 3, Major 2nd (TV)" >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

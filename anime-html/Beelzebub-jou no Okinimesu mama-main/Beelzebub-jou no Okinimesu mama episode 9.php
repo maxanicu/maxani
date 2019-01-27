@@ -30,9 +30,9 @@ include("../anime_header.php");
 	<div style=" margin-top: 30px;" class="margin_theme margin">
 		<a href="Beelzebub-jou no Okinimesu mama episode 8.php" class="previous round" title="Ep. 8">&#8249;</a>
 		<a href="Beelzebub-jou no Okinimesu mama-main.php" class="previous " title="Home">Home</a>
-		<!--
+		
 		<a href="Beelzebub-jou no Okinimesu mama episode 10.php" class="next round margin_theme" title="Ep. 10">&#8250;</a>
-	-->
+	
 	</div>
 </div>
 <?php

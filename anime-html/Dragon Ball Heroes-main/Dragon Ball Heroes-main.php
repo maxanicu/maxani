@@ -39,6 +39,22 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="Dragon Ball Heroes episode 7.php"><img src="../../anime_image/Dragon Ball Heroes.jpg" alt="Dragon Ball Heroes"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 7</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
+				<a href="Dragon Ball Heroes episode 6.php"><img src="../../anime_image/Dragon Ball Heroes.jpg" alt="Dragon Ball Heroes"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 6</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="Dragon Ball Heroes episode 5.php"><img src="../../anime_image/Dragon Ball Heroes.jpg" alt="Dragon Ball Heroes"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

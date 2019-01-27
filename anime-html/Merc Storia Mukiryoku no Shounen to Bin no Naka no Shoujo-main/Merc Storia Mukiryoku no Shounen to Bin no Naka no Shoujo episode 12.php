@@ -2,7 +2,7 @@
 <html lang="en">
 <head>	
  
-	<title>Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo episode 12 - anime-world</title>
+	<title>Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo episode 12 - maxani</title>
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -11,7 +11,7 @@
 	<meta name="description" content="Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo episode 12,Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo ep 12, Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo Ep 12 english subbed,eng sub ">
 	<meta name="keywords" content="download Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo episode 12, watch Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo episode 12, Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo
  " >
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
+	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

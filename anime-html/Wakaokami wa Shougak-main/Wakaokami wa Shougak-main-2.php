@@ -2,14 +2,14 @@
 <html lang="en">
 <head>	
  
-	<title>Wakaokami wa Shougak - anime-world</title>
+	<title>Wakaokami wa Shougak - maxani</title>
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Wakaokami wa Shougak, Wakaokami wa Shougak subbed english ">
 	<meta name="keywords" content=" Wakaokami wa Shougak, Wakaokami wa Shougak episode 1 , watch and download Wakaokami wa Shougak episode 2, watch and download  Wakaokami wa Shougak episode 3, Wakaokami wa Shougak" >
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
+	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

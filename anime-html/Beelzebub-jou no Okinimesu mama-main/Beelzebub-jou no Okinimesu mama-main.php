@@ -37,6 +37,30 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="Beelzebub-jou no Okinimesu mama episode 12.php"><img src="../../anime_image/Beelzebub-jou no Okinimesu mama.jpg" alt="Beelzebub-jou no Okinimesu mama"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 12</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
+				<a href="Beelzebub-jou no Okinimesu mama episode 11.php"><img src="../../anime_image/Beelzebub-jou no Okinimesu mama.jpg" alt="Beelzebub-jou no Okinimesu mama"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 11</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
+				<a href="Beelzebub-jou no Okinimesu mama episode 10.php"><img src="../../anime_image/Beelzebub-jou no Okinimesu mama.jpg" alt="Beelzebub-jou no Okinimesu mama"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 10</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="Beelzebub-jou no Okinimesu mama episode 9.php"><img src="../../anime_image/Beelzebub-jou no Okinimesu mama.jpg" alt="Beelzebub-jou no Okinimesu mama"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>Hoozuki no Reitetsu 2nd Season Sono Ni - maxani</title>
-  
-	<title>Hoozuki no Reitetsu 2nd Season Sono Ni - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Hoozuki no Reitetsu 2nd Season Sono Ni, Hoozuki no Reitetsu 2nd Season Sono Ni subbed english ">
 	<meta name="keywords" content=" Hoozuki no Reitetsu 2nd Season Sono Ni, Hoozuki no Reitetsu 2nd Season Sono Ni episode 1 , Hoozuki no Reitetsu 2nd Season Sono Ni episode 2, Hoozuki no Reitetsu 2nd Season Sono Ni episode 3, Hoozuki no Reitetsu 2nd Season Sono Ni" >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

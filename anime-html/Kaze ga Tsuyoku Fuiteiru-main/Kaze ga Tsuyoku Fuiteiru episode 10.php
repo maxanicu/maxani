@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>Kaze ga Tsuyoku Fuiteiru episode 10 - maxani</title>
-  
-	<title>Kaze ga Tsuyoku Fuiteiru episode 10 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="Kaze ga Tsuyoku Fuiteiru episode 10">
 	<meta name="description" content="Kaze ga Tsuyoku Fuiteiru episode 10,Kaze ga Tsuyoku Fuiteiru ep 10, Kaze ga Tsuyoku Fuiteiru Ep 10 english subbed,eng sub ">
 	<meta name="keywords" content="download Kaze ga Tsuyoku Fuiteiru episode 10, watch Kaze ga Tsuyoku Fuiteiru episode 10, Kaze ga Tsuyoku Fuiteiru " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");
@@ -39,15 +31,9 @@ include("../anime_header.php");
 			<a href="Kaze ga Tsuyoku Fuiteiru episode 9.php" class="previous round" title="Ep. 9">&#8249;</a>
 			<div class="next_inline" >
 				<a href="Kaze ga Tsuyoku Fuiteiru-main.php" class="previous margin_theme" title="home">Home</a>
-
-				<!--
-				<a href="Kaze ga Tsuyoku Fuiteiru episode 11.php" class="next round margin_theme" title="Ep. 11">&#8250;</a>
-			-->
-  
 				
 				<a href="Kaze ga Tsuyoku Fuiteiru episode 11.php" class="next round margin_theme" title="Ep. 11">&#8250;</a>
 			
-  
 			</div>
 		</div>
 </div>

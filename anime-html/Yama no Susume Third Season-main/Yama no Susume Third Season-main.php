@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>Yama no Susume Third Season - maxani</title>
-  
-	<title>Yama no Susume Third Season - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Yama no Susume Third Season, Yama no Susume Third Season english sub ">
 	<meta name="keywords" content=" Yama no Susume Third Season, Yama no Susume Third Season episode 1 , watch and download Yama no Susume Third Season episode 2, Yama no Susume Third Season" >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

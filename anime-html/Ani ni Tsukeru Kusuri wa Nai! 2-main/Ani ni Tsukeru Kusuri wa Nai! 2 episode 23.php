@@ -30,8 +30,8 @@ include("../anime_header.php");
 	<div style=" margin-top: 30px;" class="margin_theme margin">
 		<a href="Ani ni Tsukeru Kusuri wa Nai! 2 episode 22.php" class="previous round" title="Ep. 22">&#8249;</a>
 		<a href="Ani ni Tsukeru Kusuri wa Nai! 2-main.php" class="previous " title="Home">Home</a>
-		<!--
-		<a href="Ani ni Tsukeru Kusuri wa Nai! 2 episode 24.php" class="next round margin_theme" title="Ep. 24">&#8250;</a> -->
+		
+		<a href="Ani ni Tsukeru Kusuri wa Nai! 2 episode 24.php" class="next round margin_theme" title="Ep. 24">&#8250;</a> 
 	</div>
 </div>
 <?php

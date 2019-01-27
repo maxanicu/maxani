@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>Mahou Shoujo Site - maxani</title>
-  
-	<title>Mahou Shoujo Site - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Mahou Shoujo Site, Mahou Shoujo Site subbed english ">
 	<meta name="keywords" content=" Mahou Shoujo Site, Mahou Shoujo Site episode 1 , Mahou Shoujo Site episode 2, Mahou Shoujo Site episode 3, Mahou Shoujo Site" >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

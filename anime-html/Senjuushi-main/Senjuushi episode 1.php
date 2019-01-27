@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>Senjuushi episode 1 - maxani</title>
-  
-	<title>Senjuushi episode 1 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="Senjuushi episode 1">
 	<meta name="description" content="Senjuushi episode 1,Senjuushi ep 1, Senjuushi Ep 1 english subbed,eng sub ">
 	<meta name="keywords" content="download Senjuushi episode 1, watch Senjuushi episode 1, Senjuushi " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

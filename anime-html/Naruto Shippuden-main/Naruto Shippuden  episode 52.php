@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>Naruto Shippuden  episode 52 - maxani</title>
-  
-	<title>Naruto Shippuden  episode 52 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="Naruto Shippuden  episode 52">
 	<meta name="description" content="Naruto Shippuden  episode 52,Naruto Shippuden  ep 52, Naruto Shippuden  Ep 52 english subbed,eng sub ">
 	<meta name="keywords" content="download Naruto Shippuden  episode 52, watch Naruto Shippuden  episode 52, Naruto Shippuden  " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

@@ -25,7 +25,7 @@ include("../anime_header.php");
 	<div class="container_div" >  <br>
 		<br>
 		<h3>Episode 2  </h3>
-		<div class="frame-contain"><iframe src="https://vidstreaming.io/streaming.php?id=MTA2NzEz&amp;title=Aguu%3A+Tensai+Ningyou+episode+2&amp;typesub=SUB" allowfullscreen="true" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="100%"></iframe></div>
+		<div class="frame-contain"><iframe src="https://vidstreaming.io/streaming.php?id=MTA2NzEz&amp;title=Aguu%3A+Tensai+Ningyou+episode+2&amp;typesub=SUB" allowfullscreen="true" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" height="100%" width="100%"></iframe></div>
 	</div>
 	<div style=" margin-top: 30px; " class="margin_theme margin">
 			<a href="Aguu Tensai Ningyou episode 1.php" class="previous round" title="Ep. 1">&#8249;</a>

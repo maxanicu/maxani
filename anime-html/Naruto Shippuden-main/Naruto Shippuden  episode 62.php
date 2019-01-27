@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>Naruto Shippuden  62 - maxani</title>
-  
-	<title>Naruto Shippuden  62 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="Naruto Shippuden  62">
 	<meta name="description" content="Naruto Shippuden  62,Naruto Shippuden  ep 62, Naruto Shippuden  Ep 62 english subbed,eng sub ">
 	<meta name="keywords" content="download Naruto Shippuden  62, watch Naruto Shippuden  62, Naruto Shippuden  " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>Hinomaruzumou episode 10 - maxani</title>
-  
-	<title>Hinomaruzumou episode 10 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="Hinomaruzumou episode 10">
 	<meta name="description" content="Hinomaruzumou episode 10,Hinomaruzumou ep 10, Hinomaruzumou Ep 10 english subbed,eng sub ">
 	<meta name="keywords" content="download Hinomaruzumou episode 10, watch Hinomaruzumou episode 10, Hinomaruzumou " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");
@@ -38,15 +30,9 @@ include("../anime_header.php");
 	<div style=" margin-top: 30px;" class="margin_theme margin">
 		<a href="Hinomaruzumou episode 9.php" class="previous round" title="Ep. 9">&#8249;</a>
 		<a href="Hinomaruzumou-main.php" class="previous " title="Home">Home</a>
-
-		<!--
-		<a href="Hinomaruzumou episode 11.php" class="next round margin_theme" title="Ep. 11">&#8250;</a>
-	-->
-  
 		
 		<a href="Hinomaruzumou episode 11.php" class="next round margin_theme" title="Ep. 11">&#8250;</a>
 	
-  
 	</div>
 </div>
 <?php

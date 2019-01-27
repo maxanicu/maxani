@@ -30,8 +30,8 @@ include("../anime_header.php");
 			<a href="Boruto Naruto Next Generations 83.php" class="previous round" title="Ep. 83">&#8249;</a>
 			<div class="next_inline" >
 				<a href="Boruto Naruto Next Generations-main.php" class="previous margin_theme" title="home">Home</a>
-				<!--
-				<a href="Boruto Naruto Next Generations 85.php" class="next round margin_theme" title="Ep. 85" >&#8250;</a> -->
+				
+				<a href="Boruto Naruto Next Generations 85.php" class="next round margin_theme" title="Ep. 85" >&#8250;</a> 
 			</div>
 		</div>
 </div>

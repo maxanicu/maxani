@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>One Punch Man Specials - maxani</title>
-  
-	<title>One Punch Man Specials - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="One Punch Man Specials, One Punch Man Specials subbed english ">
 	<meta name="keywords" content=" One Punch Man Specials, One Punch Man Specials episode 1 , One Punch Man Specials episode 2, One Punch Man Specials episode 3, One Punch Man Specials" >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

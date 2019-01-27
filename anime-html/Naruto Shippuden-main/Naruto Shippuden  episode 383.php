@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>Naruto Shippuden  episode 383 - maxani</title>
-  
-	<title>Naruto Shippuden  episode 383 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="Naruto Shippuden  episode 383">
 	<meta name="description" content="Naruto Shippuden  episode 383,Naruto Shippuden  ep 383, Naruto Shippuden  Ep 383 english subbed,eng sub ">
 	<meta name="keywords" content="download Naruto Shippuden  episode 383, watch Naruto Shippuden  episode 383, Naruto Shippuden  " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

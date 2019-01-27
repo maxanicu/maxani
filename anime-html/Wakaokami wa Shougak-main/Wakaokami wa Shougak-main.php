@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>Wakaokami wa Shougak - maxani</title>
-  
-	<title>Wakaokami wa Shougak - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Wakaokami wa Shougak, Wakaokami wa Shougak subbed english ">
 	<meta name="keywords" content=" Wakaokami wa Shougak, Wakaokami wa Shougak episode 1 , watch and download Wakaokami wa Shougak episode 2, watch and download  Wakaokami wa Shougak episode 3, Wakaokami wa Shougak" >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");
@@ -43,94 +35,34 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
-
-				<a href="Wakaokami wa Shougak episode 18.php"><img src="../../anime_image/Wakaokami wa Shougak.jpg" alt="Wakaokami wa Shougak"  class="img_gemeral"></a>
-			</div>
-			<div class="title_episode">
-				<h2 class="anime">Episode 18</h2>
-  
 				<a href="Wakaokami wa Shougak episode 24.php"><img src="../../anime_image/Wakaokami wa Shougak.jpg" alt="Wakaokami wa Shougak"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">
 				<h2 class="anime">Episode 24</h2>
-  
 			</div>
 		</div>
 		<div class="thumb_update">
 			<div class="viewer">
-
-				<a href="Wakaokami wa Shougak episode 17.php"><img src="../../anime_image/Wakaokami wa Shougak.jpg" alt="Wakaokami wa Shougak"  class="img_gemeral"></a>
-			</div>
-			<div class="title_episode">
-				<h2 class="anime">Episode 17</h2>
-  
 				<a href="Wakaokami wa Shougak episode 23.php"><img src="../../anime_image/Wakaokami wa Shougak.jpg" alt="Wakaokami wa Shougak"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">
 				<h2 class="anime">Episode 23</h2>
-  
 			</div>
 		</div>
 		<div class="thumb_update">
 			<div class="viewer">
-
-				<a href="Wakaokami wa Shougak episode 16.php"><img src="../../anime_image/Wakaokami wa Shougak.jpg" alt="Wakaokami wa Shougak"  class="img_gemeral"></a>
-			</div>
-			<div class="title_episode">
-				<h2 class="anime">Episode 16</h2>
-  
 				<a href="Wakaokami wa Shougak episode 22.php"><img src="../../anime_image/Wakaokami wa Shougak.jpg" alt="Wakaokami wa Shougak"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">
 				<h2 class="anime">Episode 22</h2>
-  
 			</div>
 		</div>
 		<div class="thumb_update">
 			<div class="viewer">
-
-				<a href="Wakaokami wa Shougak episode 15.php"><img src="../../anime_image/Wakaokami wa Shougak.jpg" alt="Wakaokami wa Shougak"  class="img_gemeral"></a>
-			</div>
-			<div class="title_episode">
-				<h2 class="anime">Episode 15</h2>
-			</div>
-		</div>
-		<div class="thumb_update">
-			<div class="viewer">
-				<a href="Wakaokami wa Shougak episode 14.php"><img src="../../anime_image/Wakaokami wa Shougak.jpg" alt="Wakaokami wa Shougak"  class="img_gemeral"></a>
-			</div>
-			<div class="title_episode">
-				<h2 class="anime">Episode 14</h2>
-			</div>
-		</div>
-		<div class="thumb_update">
-			<div class="viewer">
-				<a href="Wakaokami wa Shougak episode 13.php"><img src="../../anime_image/Wakaokami wa Shougak.jpg" alt="Wakaokami wa Shougak"  class="img_gemeral"></a>
-			</div>
-			<div class="title_episode">
-				<h2 class="anime">Episode 13</h2>
-			</div>
-		</div>
-		<div class="thumb_update">
-			<div class="viewer">
-				<a href="Wakaokami wa Shougak episode 12.php"><img src="../../anime_image/Wakaokami wa Shougak.jpg" alt="Wakaokami wa Shougak"  class="img_gemeral"></a>
-			</div>
-			<div class="title_episode">
-				<h2 class="anime">Episode 12</h2>
-			</div>
-		</div>
-		<div class="thumb_update">
-			<div class="viewer">
-				<a href="Wakaokami wa Shougak episode 11.php"><img src="../../anime_image/Wakaokami wa Shougak.jpg" alt="Wakaokami wa Shougak"  class="img_gemeral"></a>
-			</div>
-			<div class="title_episode">
-				<h2 class="anime">Episode 11</h2>
-  
 				<a href="Wakaokami wa Shougak episode 21.php"><img src="../../anime_image/Wakaokami wa Shougak.jpg" alt="Wakaokami wa Shougak"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">
 				<h2 class="anime">Episode 21</h2>
-  
 			</div>
 		</div><!-- responsive -->
 	</div>

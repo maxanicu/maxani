@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>Youkai Watch Shadow side - maxani</title>
-  
-	<title>Youkai Watch Shadow side - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Youkai Watch Shadow side, Youkai Watch Shadow side subbed english ">
 	<meta name="keywords" content=" Youkai Watch Shadow side, Youkai Watch Shadow side episode 1 , Youkai Watch Shadow side episode 2, Youkai Watch Shadow side episode 3, Youkai Watch Shadow side" >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

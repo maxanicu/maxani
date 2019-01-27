@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>Sunoharasou no Kanrinin san - maxani</title>
-  
-	<title>Sunoharasou no Kanrinin san - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Sunoharasou no Kanrinin san, Sunoharasou no Kanrinin san subbed english ">
 	<meta name="keywords" content=" Sunoharasou no Kanrinin san, Sunoharasou no Kanrinin san episode 1 , watch and download Sunoharasou no Kanrinin san episode 2, watch and download  Sunoharasou no Kanrinin san episode 3, Sunoharasou no Kanrinin san" >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

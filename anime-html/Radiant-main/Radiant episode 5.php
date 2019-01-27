@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>Radiant episode 5 - maxani</title>
-  
-	<title>Radiant episode 5 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="Radiant episode 5">
 	<meta name="description" content="Radiant episode 5,Radiant ep 5, Radiant Ep 5 english subbed,eng sub ">
 	<meta name="keywords" content="download Radiant episode 5, watch Radiant episode 5, Radiant " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

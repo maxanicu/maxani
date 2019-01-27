@@ -31,8 +31,8 @@ include("../anime_header.php");
 			<a href="Banana Fish episode 21.php" class="previous round" title="Ep. 21">&#8249;</a>
 			<div class="next_inline" >
 				<a href="Banana Fish-main.php" class="previous margin_theme" title="home">Home</a>
-				<!--
-				<a href="Banana Fish episode 23.php" class="next round margin_theme" title="Ep. 23" >&#8250;</a> -->
+				
+				<a href="Banana Fish episode 23.php" class="next round margin_theme" title="Ep. 23" >&#8250;</a> 
 			</div>
 		</div>
 </div>

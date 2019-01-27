@@ -2,7 +2,7 @@
 <html lang="en">
 <head>	
  
-	<title>Yagate Kimi ni Naru episode 11 - anime-world</title>
+	<title>Yagate Kimi ni Naru episode 11 - maxani</title>
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -10,7 +10,7 @@
 	<meta name="description" content="Yagate Kimi ni Naru episode 11">
 	<meta name="description" content="Yagate Kimi ni Naru episode 11,Yagate Kimi ni Naru ep 11, Yagate Kimi ni Naru Ep 11 english subbed,eng sub ">
 	<meta name="keywords" content="download Yagate Kimi ni Naru episode 11, watch Yagate Kimi ni Naru episode 11, Yagate Kimi ni Naru " >
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
+	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

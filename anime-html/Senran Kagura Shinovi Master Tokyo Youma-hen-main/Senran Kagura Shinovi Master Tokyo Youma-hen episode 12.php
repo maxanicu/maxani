@@ -2,7 +2,7 @@
 <html lang="en">
 <head>	
  
-	<title>Senran Kagura Shinovi Master Tokyo Youma-hen episode 12 - anime-world</title>
+	<title>Senran Kagura Shinovi Master Tokyo Youma-hen episode 12 - maxani</title>
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -10,7 +10,7 @@
 	<meta name="description" content="Senran Kagura Shinovi Master Tokyo Youma-hen episode 12">
 	<meta name="description" content="Senran Kagura Shinovi Master Tokyo Youma-hen episode 12,Senran Kagura Shinovi Master Tokyo Youma-hen ep 12, Senran Kagura Shinovi Master Tokyo Youma-hen Ep 12 english subbed,eng sub ">
 	<meta name="keywords" content="download Senran Kagura Shinovi Master Tokyo Youma-hen episode 12, watch Senran Kagura Shinovi Master Tokyo Youma-hen episode 12, Senran Kagura Shinovi Master Tokyo Youma-hen " >
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
+	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

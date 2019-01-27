@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>Juushinki Pandora - maxani</title>
-  
-	<title>Juushinki Pandora - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Juushinki Pandora, Juushinki Pandora subbed english ">
 	<meta name="keywords" content=" Juushinki Pandora, Juushinki Pandora episode 1 , Juushinki Pandora episode 2, watch and download  Juushinki Pandora episode 3, Juushinki Pandora" >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

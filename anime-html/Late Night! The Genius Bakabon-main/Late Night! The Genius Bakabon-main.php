@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>Late Night! The Genius Bakabon - maxani</title>
-  
-	<title>Late Night! The Genius Bakabon - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Late Night! The Genius Bakabon, Late Night! The Genius Bakabon subbed english ">
 	<meta name="keywords" content=" Late Night! The Genius Bakabon, Late Night! The Genius Bakabon episode 1 , watch and download Late Night! The Genius Bakabon episode 2, watch and download  Late Night! The Genius Bakabon episode 3, Late Night! The Genius Bakabon" >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

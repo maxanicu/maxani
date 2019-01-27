@@ -2,7 +2,7 @@
 <html lang="en">
 <head>	
  
-	<title>Inazuma Eleven Orion no Kokuin episode 9 - anime-world</title>
+	<title>Inazuma Eleven Orion no Kokuin episode 9 - maxani</title>
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -10,7 +10,7 @@
 	<meta name="description" content="Inazuma Eleven Orion no Kokuin episode 9">
 	<meta name="description" content="Inazuma Eleven Orion no Kokuin episode 9,Inazuma Eleven Orion no Kokuin ep 9, Inazuma Eleven Orion no Kokuin Ep 9 english subbed,eng sub ">
 	<meta name="keywords" content="download Inazuma Eleven Orion no Kokuin episode 9, watch Inazuma Eleven Orion no Kokuin episode 9, Inazuma Eleven Orion no Kokuin " >
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
+	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

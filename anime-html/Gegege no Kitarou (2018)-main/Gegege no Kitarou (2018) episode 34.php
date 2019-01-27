@@ -31,9 +31,9 @@ include("../anime_header.php");
 			<a href="Gegege no Kitarou (2018) episode 33.php" class="previous round" title="Ep. 33">&#8249;</a>
 			<div class="next_inline" >
 				<a href="Gegege no Kitarou (2018)-main.php" class="previous margin_theme" title="home">Home</a>
-				<!--
+				
 				<a href="Gegege no Kitarou (2018) episode 35.php" class="next round margin_theme" title="Ep. 35" >&#8250;</a>
-			-->
+			
 			</div>
 	</div>
 </div>

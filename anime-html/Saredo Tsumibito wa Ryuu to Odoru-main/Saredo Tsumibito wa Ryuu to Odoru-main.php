@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>Saredo Tsumibito wa Ryuu to Odoru - maxani</title>
-  
-	<title>Saredo Tsumibito wa Ryuu to Odoru - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Saredo Tsumibito wa Ryuu to Odoru, Saredo Tsumibito wa Ryuu to Odoru subbed english ">
 	<meta name="keywords" content=" Saredo Tsumibito wa Ryuu to Odoru, Saredo Tsumibito wa Ryuu to Odoru episode 1 , Saredo Tsumibito wa Ryuu to Odoru episode 2, Saredo Tsumibito wa Ryuu to Odoru episode 3, Saredo Tsumibito wa Ryuu to Odoru" >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

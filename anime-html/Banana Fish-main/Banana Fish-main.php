@@ -37,6 +37,22 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="Banana Fish episode 24.php"><img src="../../anime_image/Banana Fish.jpg" alt="Banana Fish"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 24</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
+				<a href="Banana Fish episode 23.php"><img src="../../anime_image/Banana Fish.jpg" alt="Banana Fish"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 23</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="Banana Fish episode 22.php"><img src="../../anime_image/Banana Fish.jpg" alt="Banana Fish"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

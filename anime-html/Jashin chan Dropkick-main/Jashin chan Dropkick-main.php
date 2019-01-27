@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>Jashin chan Dropkick - maxani</title>
-  
-	<title>Jashin chan Dropkick - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Jashin chan Dropkick, Jashin chan Dropkick english sub ">
 	<meta name="keywords" content=" Jashin chan Dropkick, Jashin chan Dropkick episode 1 , watch and download Jashin chan Dropkick episode 2, Jashin chan Dropkick" >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

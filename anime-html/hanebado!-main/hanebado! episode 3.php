@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>hanebado! episode 3 - maxani</title>
-  
-	<title>hanebado! episode 3 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="hanebado! episode 3">
 	<meta name="description" content="hanebado! episode 3,hanebado! ep 3, hanebado! Ep 3 english subbed,eng sub ">
 	<meta name="keywords" content="download hanebado! episode 3, watch hanebado! episode 3, hanebado! " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

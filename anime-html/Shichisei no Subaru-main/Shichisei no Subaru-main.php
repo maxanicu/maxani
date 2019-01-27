@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>Shichisei no Subaru - maxani</title>
-  
-	<title>Shichisei no Subaru - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Shichisei no Subaru, Shichisei no Subaru subbed english ">
 	<meta name="keywords" content=" Shichisei no Subaru, Shichisei no Subaru episode 1 , watch and download Shichisei no Subaru episode 2, watch and download  Shichisei no Subaru episode 3, Shichisei no Subaru" >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

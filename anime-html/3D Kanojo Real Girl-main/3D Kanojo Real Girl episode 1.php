@@ -2,7 +2,7 @@
 <html lang="en">
 <head>	
  
-	<title>3D Kanojo: Real Girl - anime-world</title>
+	<title>3D Kanojo: Real Girl - maxani</title>
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -10,7 +10,7 @@
 	<meta name="description" content="3D Kanojo: Real Girl episode 1">
 	<meta name="description" content="3D Kanojo: Real Girl episode 1,3D Kanojo: Real Girl ep 1, 3D Kanojo: Real Girl Ep 1 english subbed,eng sub ">
 	<meta name="keywords" content="download 3D Kanojo: Real Girl episode 1, watch 3D Kanojo: Real Girl episode 1, 3D Kanojo: Real Girl " >
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
+	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

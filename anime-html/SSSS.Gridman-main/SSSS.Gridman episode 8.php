@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>SSSS.Gridman episode 8 - maxani</title>
-  
-	<title>SSSS.Gridman episode 8 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="SSSS.Gridman episode 8">
 	<meta name="description" content="SSSS.Gridman episode 8,SSSS.Gridman ep 8, SSSS.Gridman Ep 8 english subbed,eng sub ">
 	<meta name="keywords" content="download SSSS.Gridman episode 8, watch SSSS.Gridman episode 8, SSSS.Gridman " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

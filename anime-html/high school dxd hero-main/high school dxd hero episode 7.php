@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>high school dxd hero episode 7 - maxani</title>
-  
-	<title>high school dxd hero episode 7 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="high school dxd hero episode 7">
 	<meta name="description" content="high school dxd hero episode 7, high school dxd hero ep 7, high school dxd hero Ep  7 english subbed,eng sub ">
 	<meta name="keywords" content="download high school dxd hero episode 7, watch high school dxd hero episode 7, high school " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 
 <?php

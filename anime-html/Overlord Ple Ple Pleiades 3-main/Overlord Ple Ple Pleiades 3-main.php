@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>Overlord Ple Ple Pleiades 3 - maxani</title>
-  
-	<title>Overlord Ple Ple Pleiades 3 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Overlord Ple Ple Pleiades 3, Overlord Ple Ple Pleiades 3 subbed english ">
 	<meta name="keywords" content=" Overlord Ple Ple Pleiades 3, Overlord Ple Ple Pleiades 3 episode 1 , Overlord Ple Ple Pleiades 3 episode 2, Overlord Ple Ple Pleiades 3 episode 3, Overlord Ple Ple Pleiades 3" >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>Hunter X Hunter 2011 episode 93 - maxani</title>
-  
-	<title>Hunter X Hunter 2011 episode 93 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="Hunter X Hunter 2011 episode 93">
 	<meta name="description" content="Hunter X Hunter 2011 episode 93,Hunter X Hunter 2011 ep 93, Hunter X Hunter 2011 Ep 93 english subbed,eng sub ">
 	<meta name="keywords" content="download Hunter X Hunter 2011 episode 93, watch Hunter X Hunter 2011 episode 93, Hunter X Hunter 2011 " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

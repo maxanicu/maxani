@@ -92,13 +92,13 @@ include("../anime_header.php");
 <div class="pagination_contain">
               <div class="pagination_anime_main_page">
                 <a href="Dragon Ball Super-main.php" class="active">1</a>
-                <a href="Dragon Ball Super-main_2.php" >2</a>
-                <a href="Dragon Ball Super-main_3.php" >3</a>
-                <a href="Dragon Ball Super-main_4.php" >4</a>
-                <a href="Dragon Ball Super-main_5.php" >5</a>
-                <a href="Dragon Ball Super-main_6.php" >6</a>
-                <a href="Dragon Ball Super-main_7.php" >7</a>
-                <a href="Dragon Ball Super-main_11.php" >11</a>
+                <a href="Dragon Ball Super-main-2.php" >2</a>
+                <a href="Dragon Ball Super-main-3.php" >3</a>
+                <a href="Dragon Ball Super-main-4.php" >4</a>
+                <a href="Dragon Ball Super-main-5.php" >5</a>
+                <a href="Dragon Ball Super-main-6.php" >6</a>
+                <a href="Dragon Ball Super-main-7.php" >7</a>
+                <a href="Dragon Ball Super-main-11.php" >11</a>
               </div>
             </div>
 <?php

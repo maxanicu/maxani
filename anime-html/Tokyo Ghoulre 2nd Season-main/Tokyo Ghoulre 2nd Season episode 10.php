@@ -2,7 +2,7 @@
 <html lang="en">
 <head>	
  
-	<title>Tokyo Ghoulre 2nd Season episode 10 - anime-world</title>
+	<title>Tokyo Ghoulre 2nd Season episode 10 - maxani</title>
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -10,7 +10,7 @@
 	<meta name="description" content="Tokyo Ghoulre 2nd Season episode 1">
 	<meta name="description" content="Tokyo Ghoulre 2nd Season episode 8,Tokyo Ghoulre 2nd Season ep 10, Tokyo Ghoulre 2nd Season Ep 10 english subbed,eng sub ">
 	<meta name="keywords" content="download Tokyo Ghoulre 2nd Season episode 10, watch Tokyo Ghoulre 2nd Season episode 10, Tokyo Ghoulre 2nd Season " >
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
+	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

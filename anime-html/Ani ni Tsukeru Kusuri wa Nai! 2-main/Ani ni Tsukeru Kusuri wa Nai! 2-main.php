@@ -35,6 +35,14 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="Ani ni Tsukeru Kusuri wa Nai! 2 episode 24.php"><img src="../../anime_image/Ani ni Tsukeru Kusuri wa Nai! 2.jpg" alt="Ani ni Tsukeru Kusuri wa Nai! 2"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 24</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="Ani ni Tsukeru Kusuri wa Nai! 2 episode 23.php"><img src="../../anime_image/Ani ni Tsukeru Kusuri wa Nai! 2.jpg" alt="Ani ni Tsukeru Kusuri wa Nai! 2"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

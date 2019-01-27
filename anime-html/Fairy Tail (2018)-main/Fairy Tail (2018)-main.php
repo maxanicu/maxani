@@ -36,6 +36,54 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="Fairy Tail (2018) episode 14.php"><img src="../../anime_image/Fairy Tail (2018).jpg" alt="Fairy Tail (2018)"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 14</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
+				<a href="Fairy Tail (2018) episode 13.php"><img src="../../anime_image/Fairy Tail (2018).jpg" alt="Fairy Tail (2018)"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 13</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
+				<a href="Fairy Tail (2018) episode 12.php"><img src="../../anime_image/Fairy Tail (2018).jpg" alt="Fairy Tail (2018)"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 12</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
+				<a href="Fairy Tail (2018) episode 11.php"><img src="../../anime_image/Fairy Tail (2018).jpg" alt="Fairy Tail (2018)"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 11</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
+				<a href="Fairy Tail (2018) episode 10.php"><img src="../../anime_image/Fairy Tail (2018).jpg" alt="Fairy Tail (2018)"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 10</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
+				<a href="Fairy Tail (2018) episode 9.php"><img src="../../anime_image/Fairy Tail (2018).jpg" alt="Fairy Tail (2018)"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 9</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="Fairy Tail (2018) episode 8.php"><img src="../../anime_image/Fairy Tail (2018).jpg" alt="Fairy Tail (2018)"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

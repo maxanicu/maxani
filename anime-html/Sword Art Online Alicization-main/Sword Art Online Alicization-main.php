@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>Sword Art Online Alicization - maxani</title>
-  
-	<title>Sword Art Online Alicization - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Sword Art Online Alicization, Sword Art Online Alicization subbed english ">
 	<meta name="keywords" content=" Sword Art Online Alicization, Sword Art Online Alicization episode 1 , watch and download Sword Art Online Alicization episode 2, watch and download  Sword Art Online Alicization episode 3, Sword Art Online Alicization" >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");
@@ -46,8 +38,6 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
-
-  
 				<a href="Sword Art Online Alicization episode 14.php"><img src="../../anime_image/Sword Art Online Alicization.jpg" alt="Sword Art Online Alicization"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">
@@ -96,7 +86,6 @@ include("../anime_header.php");
 		</div>
 		<div class="thumb_update">
 			<div class="viewer">
-  
 				<a href="Sword Art Online Alicization episode 8.php"><img src="../../anime_image/Sword Art Online Alicization.jpg" alt="Sword Art Online Alicization"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

@@ -1,7 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://www.anime-world.cu.ma/sitemap.xml
-
-User-agent: googlebot
-Disallow:

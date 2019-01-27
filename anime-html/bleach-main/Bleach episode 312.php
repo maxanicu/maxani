@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>Bleach  episode 312 - maxani</title>
-  
-	<title>Bleach  episode 312 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="Bleach  episode 312">
 	<meta name="description" content="Bleach  episode 312,Bleach  ep 312, Bleach  Ep 312 english subbed,eng sub ">
 	<meta name="keywords" content="download Bleach  episode 312, watch Bleach  episode 312, Bleach  " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

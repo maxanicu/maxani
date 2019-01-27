@@ -2,7 +2,7 @@
 <html lang="en">
 <head>	
  
-	<title>Irozuku Sekai no Ashita kara episode 12 - anime-world</title>
+	<title>Irozuku Sekai no Ashita kara episode 12 - maxani</title>
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -10,7 +10,7 @@
 	<meta name="description" content="Irozuku Sekai no Ashita kara episode 12">
 	<meta name="description" content="Irozuku Sekai no Ashita kara episode 12,Irozuku Sekai no Ashita kara ep 12, Irozuku Sekai no Ashita kara Ep 12 english subbed,eng sub ">
 	<meta name="keywords" content="download Irozuku Sekai no Ashita kara episode 12, watch Irozuku Sekai no Ashita kara episode 10, Irozuku Sekai no Ashita kara " >
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
+	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

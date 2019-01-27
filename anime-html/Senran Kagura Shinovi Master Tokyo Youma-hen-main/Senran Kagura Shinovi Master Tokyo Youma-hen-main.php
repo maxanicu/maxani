@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>Senran Kagura Shinovi Master Tokyo Youma-hen - maxani</title>
-  
-	<title>Senran Kagura Shinovi Master Tokyo Youma-hen - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Senran Kagura Shinovi Master Tokyo Youma-hen, Senran Kagura Shinovi Master Tokyo Youma-hen subbed english ">
 	<meta name="keywords" content=" Senran Kagura Shinovi Master Tokyo Youma-hen, Senran Kagura Shinovi Master Tokyo Youma-hen episode 1 , watch and download Senran Kagura Shinovi Master Tokyo Youma-hen episode 2, watch and download  Senran Kagura Shinovi Master Tokyo Youma-hen episode 3, Senran Kagura Shinovi Master Tokyo Youma-hen" >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");
@@ -45,8 +37,6 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
-
-  
 				<a href="Senran Kagura Shinovi Master Tokyo Youma-hen episode 12.php"><img src="../../anime_image/Senran Kagura Shinovi Master Tokyo Youma-hen.jpg" alt="Senran Kagura Shinovi Master Tokyo Youma-hen"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">
@@ -71,7 +61,6 @@ include("../anime_header.php");
 		</div>
 		<div class="thumb_update">
 			<div class="viewer">
-  
 				<a href="Senran Kagura Shinovi Master Tokyo Youma-hen episode 9.php"><img src="../../anime_image/Senran Kagura Shinovi Master Tokyo Youma-hen.jpg" alt="Senran Kagura Shinovi Master Tokyo Youma-hen"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

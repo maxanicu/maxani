@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>Rang Wo Men Shao Ba - maxani</title>
-  
-	<title>Rang Wo Men Shao Ba - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Rang Wo Men Shao Ba, Rang Wo Men Shao Ba english sub ">
 	<meta name="keywords" content=" Rang Wo Men Shao Ba, Rang Wo Men Shao Ba episode 1 , watch and download Rang Wo Men Shao Ba episode 2, Rang Wo Men Shao Ba" >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

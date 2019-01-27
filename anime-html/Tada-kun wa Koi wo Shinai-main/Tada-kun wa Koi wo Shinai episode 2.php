@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>Tada-kun wa Koi wo ShinaiTada-kun wa Koi wo Shinai episode 2 - maxani</title>
-  
-	<title>Tada-kun wa Koi wo ShinaiTada-kun wa Koi wo Shinai episode 2 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="Tada-kun wa Koi wo Shinai, Tada-kun wa Koi wo Shinai episode 2">
 	<meta name="description" content="Tada-kun wa Koi wo Shinai, Tada-kun wa Koi wo Shinai episode 2,Tada-kun wa Koi wo Shinai ep 2, Tada-kun wa Koi wo Shinai, Tada-kun wa Koi wo Shinai Ep 2 english subbed,eng sub ">
 	<meta name="keywords" content="Tada-kun wa Koi wo Shinai episode 2, watch Tada-kun wa Koi wo Shinai episode 2, Tada-kun wa Koi wo Shinai " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

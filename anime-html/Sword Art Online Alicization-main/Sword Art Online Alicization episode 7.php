@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>	
-
 	<title>Sword Art Online Alicization episode 7 - maxani</title>
-  
-	<title>Sword Art Online Alicization episode 7 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -13,11 +9,7 @@
 	<meta name="description" content="Sword Art Online Alicization episode 7">
 	<meta name="description" content="Sword Art Online Alicization episode 7,Sword Art Online Alicization ep 7, Sword Art Online Alicization Ep 7 english subbed,eng sub ">
 	<meta name="keywords" content="download Sword Art Online Alicization episode 7, watch Sword Art Online Alicization episode 7, Sword Art Online Alicization " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

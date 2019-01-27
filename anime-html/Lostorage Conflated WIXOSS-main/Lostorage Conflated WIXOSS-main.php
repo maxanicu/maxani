@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>Lostorage Conflated WIXOSS  - maxani</title>
-  
-	<title>Lostorage Conflated WIXOSS  - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="watch Lostorage Conflated WIXOSS Online download free">
 	<meta name="keywords" content="watch Lostorage Conflated WIXOSS, watch watch Lostorage Conflated WIXOSS episode 1 ,watch and download watch Lostorage Conflated WIXOSS episode 2,watch and download  Lostorage Conflated WIXOSS episode 3,watch and download Lostorage Conflated WIXOSS episode 4," >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

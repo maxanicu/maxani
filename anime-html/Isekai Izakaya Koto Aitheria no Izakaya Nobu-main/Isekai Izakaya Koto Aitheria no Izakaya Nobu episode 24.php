@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>Isekai Izakaya: Koto Aitheria no Izakaya Nobu ep 24 - maxani</title>
-  
-	<title>Isekai Izakaya: Koto Aitheria no Izakaya Nobu ep 24 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Isekai Izakaya: Koto Aitheria no Izakaya Nobu  episode 24">
 	<meta name="keywords" content="download Isekai Izakaya: Koto Aitheria no Izakaya Nobu  episode 24, Isekai Izakaya: Koto Aitheria no Izakaya Nobu  episode 24" >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

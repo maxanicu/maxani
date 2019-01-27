@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>Piano no Mori (TV) - maxani</title>
-  
-	<title>Piano no Mori (TV) - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Piano no Mori (TV), Piano no Mori (TV) subbed english ">
 	<meta name="keywords" content=" Piano no Mori (TV), Piano no Mori (TV) episode 1 , watch and download Piano no Mori (TV) episode 2, watch and download  Piano no Mori (TV) episode 3, Piano no Mori (TV)" >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>Senran Kagura Shinovi Master Tokyo Youma-hen episode 9 - maxani</title>
-  
-	<title>Senran Kagura Shinovi Master Tokyo Youma-hen episode 9 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="Senran Kagura Shinovi Master Tokyo Youma-hen episode 9">
 	<meta name="description" content="Senran Kagura Shinovi Master Tokyo Youma-hen episode 9,Senran Kagura Shinovi Master Tokyo Youma-hen ep 9, Senran Kagura Shinovi Master Tokyo Youma-hen Ep 9 english subbed,eng sub ">
 	<meta name="keywords" content="download Senran Kagura Shinovi Master Tokyo Youma-hen episode 9, watch Senran Kagura Shinovi Master Tokyo Youma-hen episode 9, Senran Kagura Shinovi Master Tokyo Youma-hen " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");
@@ -39,15 +31,9 @@ include("../anime_header.php");
 			<a href="Senran Kagura Shinovi Master Tokyo Youma-hen episode 8.php" class="previous round" title="Ep. 8">&#8249;</a>
 			<div class="next_inline" >
 				<a href="Senran Kagura Shinovi Master Tokyo Youma-hen-main.php" class="previous margin_theme" title="home">Home</a>
-
-				<!--
-				<a href="Senran Kagura Shinovi Master Tokyo Youma-hen episode 10.php" class="next round margin_theme" title="Ep. 10">&#8250;</a>
-			-->
-  
 				
 				<a href="Senran Kagura Shinovi Master Tokyo Youma-hen episode 10.php" class="next round margin_theme" title="Ep. 10">&#8250;</a>
 			
-  
 			</div>
 		</div>
 </div>

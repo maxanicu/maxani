@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>Yu☆Gi☆Oh! VRAINS episode 48 - maxani</title>
-  
-	<title>Yu☆Gi☆Oh! VRAINS episode 48 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="Yu☆Gi☆Oh! VRAINS episode 48">
 	<meta name="description" content="Yu☆Gi☆Oh! VRAINS episode 48,Yu☆Gi☆Oh! VRAINS ep 48, Yu☆Gi☆Oh! VRAINS Ep 48 english subbed,eng sub ">
 	<meta name="keywords" content="Yu☆Gi☆Oh! VRAINS episode 48, watch Yu☆Gi☆Oh! VRAINS episode 48, Yu☆Gi☆Oh! VRAINS " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>Kakuriyo no Yadomeshi episode 7 - maxani</title>
-  
-	<title>Kakuriyo no Yadomeshi episode 7 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="Kakuriyo no Yadomeshi episode  ">
 	<meta name="description" content="Mahou Shoujo Ore episode  7,Kakuriyo no Yadomeshi ep 7 , Kakuriyo no Yadomeshi Ep  7 english subbed,eng sub ">
 	<meta name="keywords" content="download Kakuriyo no Yadomeshi episode 7 , watch Kakuriyo no Yadomeshi episode 7 , Kakuriyo no Yadomeshi " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

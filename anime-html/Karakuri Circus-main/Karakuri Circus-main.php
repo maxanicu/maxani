@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>Karakuri Circus - maxani</title>
-  
-	<title>Karakuri Circus - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Karakuri Circus, Karakuri Circus subbed english ">
 	<meta name="keywords" content=" Karakuri Circus, Karakuri Circus episode 1 , watch and download Karakuri Circus episode 2, watch and download  Karakuri Circus episode 3, Karakuri Circus" >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");
@@ -44,8 +36,6 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
-
-  
 				<a href="Karakuri Circus episode 14.php"><img src="../../anime_image/Karakuri Circus.jpg" alt="Karakuri Circus"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">
@@ -86,7 +76,6 @@ include("../anime_header.php");
 		</div>
 		<div class="thumb_update">
 			<div class="viewer">
-  
 				<a href="Karakuri Circus episode 9.php"><img src="../../anime_image/Karakuri Circus.jpg" alt="Karakuri Circus"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

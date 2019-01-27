@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>Hataraku Saibou (TV) - maxani</title>
-  
-	<title>Hataraku Saibou (TV) - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Hataraku Saibou (TV), Hataraku Saibou (TV) english sub ">
 	<meta name="keywords" content=" Hataraku Saibou (TV), Hataraku Saibou (TV) episode 1 , watch and download Hataraku Saibou (TV) episode 2, Hataraku Saibou (TV)" >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

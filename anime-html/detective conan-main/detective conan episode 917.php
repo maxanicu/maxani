@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>detective conan episode 917 - maxani</title>
-  
-	<title>detective conan episode 917 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="detective conan episode 917">
 	<meta name="description" content="detective conan episode 917,devils line ep 917, detective conan Ep 917 english subbed,eng sub ">
 	<meta name="keywords" content="download detective conan episode 917, watch detective conan episode 917, devils line " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

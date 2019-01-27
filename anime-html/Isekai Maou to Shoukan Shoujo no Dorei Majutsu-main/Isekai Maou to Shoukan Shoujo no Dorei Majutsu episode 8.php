@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>Isekai Maou to Shoukan Shoujo no Dorei Majutsu  episode 8 - maxani</title>
-  
-	<title>Isekai Maou to Shoukan Shoujo no Dorei Majutsu  episode 8 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="Isekai Maou to Shoukan Shoujo no Dorei Majutsu episode 8">
 	<meta name="description" content="Isekai Maou to Shoukan Shoujo no Dorei Majutsu episode 8,Isekai Maou to Shoukan Shoujo no Dorei Majutsu ep 8, Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ep 8 english subbed,eng sub ">
 	<meta name="keywords" content="download Isekai Maou to Shoukan Shoujo no Dorei Majutsu episode 8, watch Isekai Maou to Shoukan Shoujo no Dorei Majutsu episode 8, Isekai Maou to Shoukan Shoujo no Dorei Majutsu" >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

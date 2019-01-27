@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>lupin lll: part 5  - maxani</title>
-  
-	<title>lupin lll: part 5  - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="watch lupin lll: part 5 Online download free">
 	<meta name="keywords" content="watch lupin lll: part 5, watch watch lupin lll: part 5 episode 1 ,watch and download watch lupin lll: part 5 episode 2,watch and download  lupin lll episode 3,watch and download lupin lll: part 5 episode 4," >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

@@ -37,6 +37,30 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="Double Decker! Doug & Kirill episode 13.php"><img src="../../anime_image/Double Decker! Doug & Kirill.jpg" alt="Double Decker! Doug & Kirill"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 13</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
+				<a href="Double Decker! Doug & Kirill episode 12.php"><img src="../../anime_image/Double Decker! Doug & Kirill.jpg" alt="Double Decker! Doug & Kirill"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 12</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
+				<a href="Double Decker! Doug & Kirill episode 11.php"><img src="../../anime_image/Double Decker! Doug & Kirill.jpg" alt="Double Decker! Doug & Kirill"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 11</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="Double Decker! Doug & Kirill episode 10.php"><img src="../../anime_image/Double Decker! Doug & Kirill.jpg" alt="Double Decker! Doug & Kirill"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

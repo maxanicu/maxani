@@ -35,6 +35,38 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="Goblin Slayer episode 12.php"><img src="../../anime_image/Goblin Slayer.jpg" alt="Goblin Slayer"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 12</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
+				<a href="Goblin Slayer episode 11.php"><img src="../../anime_image/Goblin Slayer.jpg" alt="Goblin Slayer"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 11</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
+				<a href="Goblin Slayer episode 10.5.php"><img src="../../anime_image/Goblin Slayer.jpg" alt="Goblin Slayer"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 10.5</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
+				<a href="Goblin Slayer episode 10.php"><img src="../../anime_image/Goblin Slayer.jpg" alt="Goblin Slayer"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 10</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="Goblin Slayer episode 9.php"><img src="../../anime_image/Goblin Slayer.jpg" alt="Goblin Slayer"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

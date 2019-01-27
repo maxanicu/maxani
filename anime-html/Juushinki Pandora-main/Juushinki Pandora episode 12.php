@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>Juushinki Pandora episode 12 - maxani</title>
-  
-	<title>Juushinki Pandora episode 12 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="Juushinki Pandora episode 12">
 	<meta name="description" content="Juushinki Pandora episode 12,Juushinki Pandora ep 12, Juushinki Pandora Ep 12 english subbed,eng sub ">
 	<meta name="keywords" content="download Juushinki Pandora episode 12, watch Juushinki Pandora episode 12, Juushinki Pandora " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

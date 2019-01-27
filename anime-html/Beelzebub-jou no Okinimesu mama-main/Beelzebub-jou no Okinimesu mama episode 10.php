@@ -2,7 +2,7 @@
 <html lang="en">
 <head>	
  
-	<title>Beelzebub-jou no Okinimesu mama episode 10 - anime-world</title>
+	<title>Beelzebub-jou no Okinimesu mama episode 10 - maxani</title>
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -10,7 +10,7 @@
 	<meta name="description" content="Beelzebub-jou no Okinimesu mama episode 10">
 	<meta name="description" content="Beelzebub-jou no Okinimesu mama episode 10,Beelzebub-jou no Okinimesu mama ep 10, Beelzebub-jou no Okinimesu mama Ep 10 english subbed,eng sub ">
 	<meta name="keywords" content="download Beelzebub-jou no Okinimesu mama episode 10, watch Beelzebub-jou no Okinimesu mama episode 10, Beelzebub-jou no Okinimesu mama " >
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
+	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

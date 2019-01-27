@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>Lostorage Conflated WIXOSS episode 5 - maxani</title>
-  
-	<title>Lostorage Conflated WIXOSS episode 5 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="Lostorage Conflated WIXOSS episode21">
 	<meta name="description" content="Lostorage Conflated WIXOSS episode 5, Lostorage Conflated WIXOSS episode 5 sub eng, Lostorage Conflated WIXOSS episode 5 subbed english">
 	<meta name="keywords" content="download Lostorage Conflated WIXOSS episode 5, watch Lostorage Conflated WIXOSS episode 5, Lostorage Conflated WIXOSS " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

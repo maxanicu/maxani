@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>Bleach  episode 95 - maxani</title>
-  
-	<title>Bleach  episode 95 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="Bleach  episode 95">
 	<meta name="description" content="Bleach  episode 95,Bleach  ep 95, Bleach  Ep 95 english subbed,eng sub ">
 	<meta name="keywords" content="download Bleach  episode 95, watch Bleach  episode 95, Bleach  " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

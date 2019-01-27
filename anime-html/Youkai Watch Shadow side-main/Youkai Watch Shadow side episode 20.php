@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>Youkai Watch Shadow side episode 20 - maxani</title>
-  
-	<title>Youkai Watch Shadow side episode 20 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="Youkai Watch Shadow side episode 20">
 	<meta name="description" content="Youkai Watch Shadow side episode 20,Youkai Watch Shadow side ep 20, Youkai Watch Shadow side Ep 20 english subbed,eng sub ">
 	<meta name="keywords" content="download Youkai Watch Shadow side episode 20, watch Youkai Watch Shadow side episode 20, Youkai Watch Shadow side " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

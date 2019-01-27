@@ -30,9 +30,9 @@ include("../anime_header.php");
 	<div style=" margin-top: 30px;" class="margin_theme margin">
 		<a href="Double Decker! Doug & Kirill episode 9.php" class="previous round" title="Ep. 9">&#8249;</a>
 		<a href="Double Decker! Doug & Kirill-main.php" class="previous " title="Home">Home</a>
-		<!--
+		
 		<a href="Double Decker! Doug & Kirill episode 11.php" class="next round margin_theme" title="Ep. 11">&#8250;</a>
-	-->
+	
 	</div>
 </div>
 <?php

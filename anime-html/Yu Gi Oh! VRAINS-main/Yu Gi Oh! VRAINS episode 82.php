@@ -2,7 +2,7 @@
 <html lang="en">
 <head>	
  
-	<title>Yu☆Gi☆Oh! VRAINS episode 82 - anime-world</title>
+	<title>Yu☆Gi☆Oh! VRAINS episode 82 - maxani</title>
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -10,7 +10,7 @@
 	<meta name="description" content="Yu☆Gi☆Oh! VRAINS episode 82">
 	<meta name="description" content="Yu☆Gi☆Oh! VRAINS episode 82,Yu☆Gi☆Oh! VRAINS ep 82, Yu☆Gi☆Oh! VRAINS Ep 82 english subbed,eng sub ">
 	<meta name="keywords" content="Yu☆Gi☆Oh! VRAINS episode 82, watch Yu☆Gi☆Oh! VRAINS episode 82, Yu☆Gi☆Oh! VRAINS " >
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.jpg" type="image/x-icon">
+	<link rel="shortcut icon" href="../../anime_image/maxani3.jpg" type="image/x-icon">
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

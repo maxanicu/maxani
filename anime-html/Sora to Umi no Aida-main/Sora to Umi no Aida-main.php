@@ -2,14 +2,14 @@
 <html lang="en">
 <head>	
  
-	<title>Sora to Umi no Aida - anime-world</title>
+	<title>Sora to Umi no Aida - maxani</title>
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Sora to Umi no Aida, Sora to Umi no Aida subbed english ">
 	<meta name="keywords" content=" Sora to Umi no Aida, Sora to Umi no Aida episode 1 , watch and download Sora to Umi no Aida episode 2, watch and download  Sora to Umi no Aida episode 3, Sora to Umi no Aida" >
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
+	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

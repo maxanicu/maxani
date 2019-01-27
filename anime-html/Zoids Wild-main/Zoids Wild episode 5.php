@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>Zoids Wild  episode 5 - maxani</title>
-  
-	<title>Zoids Wild  episode 5 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="Zoids Wild episode 5">
 	<meta name="description" content="Zoids Wild episode 5,Zoids Wild ep 5, Zoids Wild Ep 5 english subbed,eng sub ">
 	<meta name="keywords" content="download Zoids Wild episode 5, watch Zoids Wild episode 5, Zoids Wild" >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

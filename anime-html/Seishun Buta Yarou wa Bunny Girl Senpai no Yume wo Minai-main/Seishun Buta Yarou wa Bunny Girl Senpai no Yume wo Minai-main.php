@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - maxani</title>
-  
-	<title>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai, Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai subbed english ">
 	<meta name="keywords" content=" Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai, Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai episode 1 , watch and download Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai episode 2, watch and download  Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai episode 3, Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai" >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");
@@ -44,8 +36,6 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
-
-  
 				<a href="Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai episode 13.php"><img src="../../anime_image/Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai.jpg" alt="Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">
@@ -70,7 +60,6 @@ include("../anime_header.php");
 		</div>
 		<div class="thumb_update">
 			<div class="viewer">
-  
 				<a href="Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai episode 10.php"><img src="../../anime_image/Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai.jpg" alt="Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

@@ -31,9 +31,9 @@ include("../anime_header.php");
 			<a href="Dakaretai Otoko 1-i ni Odosarete Imasu. episode 9.php" class="previous round" title="Ep. 9">&#8249;</a>
 			<div class="next_inline" >
 				<a href="Dakaretai Otoko 1-i ni Odosarete Imasu.-main.php" class="previous margin_theme" title="home">Home</a>
-				<!--
+				
 				<a href="Dakaretai Otoko 1-i ni Odosarete Imasu. episode 11.php" class="next round margin_theme" title="Ep. 11">&#8250;</a>
-			-->
+			
 			</div>
 		</div>
 </div>

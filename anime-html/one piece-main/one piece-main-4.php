@@ -2,14 +2,14 @@
 <html lang="en">
 <head>	
  
-	<title>one piece - anime-world</title>
+	<title>one piece - maxani</title>
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="one piece, one piece english sub ">
 	<meta name="keywords" content=" one piece, one piece episode 834 , watch and download one piece episode 833, watch and download  one piece episode 832, watch and download  one piece episode 831,  watch and download  one piece episode 830,  watch and download  one piece episode 777,  watch and download  one piece episode 349,  watch and download  one piece episode 320,  watch and download  one piece episode 600,   watch and download  one piece episode 1, one piece" >
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
+	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

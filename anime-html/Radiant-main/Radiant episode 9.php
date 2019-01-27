@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>Radiant episode 9 - maxani</title>
-  
-	<title>Radiant episode 9 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="Radiant episode 9">
 	<meta name="description" content="Radiant episode 9,Radiant ep 9, Radiant Ep 9 english subbed,eng sub ">
 	<meta name="keywords" content="download Radiant episode 9, watch Radiant episode 9, Radiant " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");
@@ -38,15 +30,9 @@ include("../anime_header.php");
 	<div style=" margin-top: 30px;" class="margin_theme margin">
 		<a href="Radiant episode 8.php" class="previous round" title="Ep. 8">&#8249;</a>
 		<a href="Radiant-main.php" class="previous " title="Home">Home</a>
-
-		<!--
-		<a href="Radiant episode 10.php" class="next round margin_theme" title="Ep. 10">&#8250;</a>
-	-->
-  
 		
 		<a href="Radiant episode 10.php" class="next round margin_theme" title="Ep. 10">&#8250;</a>
 	
-  
 	</div>
 </div>
 <?php

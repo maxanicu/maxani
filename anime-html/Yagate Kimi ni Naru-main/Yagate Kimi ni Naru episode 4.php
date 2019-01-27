@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>Yagate Kimi ni Naru episode 4 - maxani</title>
-  
-	<title>Yagate Kimi ni Naru episode 4 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="Yagate Kimi ni Naru episode 4">
 	<meta name="description" content="Yagate Kimi ni Naru episode 4,Yagate Kimi ni Naru ep 4, Yagate Kimi ni Naru Ep 4 english subbed,eng sub ">
 	<meta name="keywords" content="download Yagate Kimi ni Naru episode 4, watch Yagate Kimi ni Naru episode 4, Yagate Kimi ni Naru " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>Satsuriku no Tenshi - maxani</title>
-  
-	<title>Satsuriku no Tenshi - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Satsuriku no Tenshi, Satsuriku no Tenshi subbed english ">
 	<meta name="keywords" content=" Satsuriku no Tenshi, Satsuriku no Tenshi episode 1 , watch and download Satsuriku no Tenshi episode 2, watch and download  Satsuriku no Tenshi episode 3, Satsuriku no Tenshi" >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

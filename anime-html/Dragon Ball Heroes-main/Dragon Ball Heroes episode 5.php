@@ -31,8 +31,8 @@ include("../anime_header.php");
 			<a href="Dragon Ball Heroes episode 4.php" class="previous round" title="Ep. 4">&#8249;</a>
 			<div class="next_inline" >
 				<a href="Dragon Ball Heroes-main.php" class="previous margin_theme" title="home">Home</a>
-				<!--
-				<a href="Dragon Ball Heroes episode 6.php" class="next round margin_theme" title="Ep. 6">&#8250;</a>-->
+				
+				<a href="Dragon Ball Heroes episode 6.php" class="next round margin_theme" title="Ep. 6">&#8250;</a>
 			</div>
 		</div>
 </div>

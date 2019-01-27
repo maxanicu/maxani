@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>Last Period Owarinaki Rasen no Monogatari - maxani</title>
-  
-	<title>Last Period Owarinaki Rasen no Monogatari - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Last Period Owarinaki Rasen no Monogatari, Last Period Owarinaki Rasen no Monogatari subbed english ">
 	<meta name="keywords" content=" Last Period Owarinaki Rasen no Monogatari, Last Period Owarinaki Rasen no Monogatari episode 1 , Last Period Owarinaki Rasen no Monogatari episode 2, watch and download  Last Period Owarinaki Rasen no Monogatari episode 3, Last Period Owarinaki Rasen no Monogatari" >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

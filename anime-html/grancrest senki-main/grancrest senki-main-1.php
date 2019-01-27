@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>grancrest senki - maxani</title>
-  
-	<title>grancrest senki - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="wwatch grancrest senki ">
 	<meta name="keywords" content="grancrest senki, grancrest senki episode 1 ,watch and download grancrest senki 2,watch and download  grancrest senki episode 3,watch and download  grancrest senki episode 4, watch and download  grancrest senki episode 5, watch and download  grancrest senki episode 6, watch and download  grancrest senki episode 7, watch and download  grancrest senki episode 10, watch and download  grancrest senki episode 14, watch and download  grancrest senki episode 16," >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

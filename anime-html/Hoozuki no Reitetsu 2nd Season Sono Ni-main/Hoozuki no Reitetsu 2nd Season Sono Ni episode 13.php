@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>Hoozuki no Reitetsu 2nd Season Sono Ni episode 13 - maxani</title>
-  
-	<title>Hoozuki no Reitetsu 2nd Season Sono Ni episode 13 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="Hoozuki no Reitetsu 2nd Season Sono Ni episode 13">
 	<meta name="description" content="Hoozuki no Reitetsu 2nd Season Sono Ni episode 13,Hoozuki no Reitetsu 2nd Season Sono Ni ep 13, Hoozuki no Reitetsu 2nd Season Sono Ni Ep 13 english subbed,eng sub ">
 	<meta name="keywords" content="download Hoozuki no Reitetsu 2nd Season Sono Ni episode 13, watch Hoozuki no Reitetsu 2nd Season Sono Ni episode 13, Hoozuki no Reitetsu 2nd Season Sono Ni " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

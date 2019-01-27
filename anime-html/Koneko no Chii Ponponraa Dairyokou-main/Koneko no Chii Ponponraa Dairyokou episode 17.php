@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>Koneko no Chii Ponponraa Dairyokou episode 17 - maxani</title>
-  
-	<title>Koneko no Chii Ponponraa Dairyokou episode 17 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="Koneko no Chii Ponponraa Dairyokou episode 17">
 	<meta name="description" content="Koneko no Chii Ponponraa Dairyokou episode 17,Koneko no Chii Ponponraa Dairyokou ep 17, Koneko no Chii Ponponraa Dairyokou Ep 17 english subbed,eng sub ">
 	<meta name="keywords" content="download Koneko no Chii Ponponraa Dairyokou episode 17, watch Koneko no Chii Ponponraa Dairyokou episode 17, Koneko no Chii Ponponraa Dairyokou " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

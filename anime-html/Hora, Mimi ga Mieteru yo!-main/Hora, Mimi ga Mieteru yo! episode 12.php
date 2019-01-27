@@ -2,7 +2,7 @@
 <html lang="en">
 <head>	
  
-	<title>Hora, Mimi ga Mieteru yo! episode 12 - anime-world</title>
+	<title>Hora, Mimi ga Mieteru yo! episode 12 - maxani</title>
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=2, viewport-fit=cover">
@@ -10,7 +10,7 @@
 	<meta name="description" content="Hora, Mimi ga Mieteru yo! episode 12">
 	<meta name="description" content="Hora, Mimi ga Mieteru yo! episode 12,Hora, Mimi ga Mieteru yo! ep 12, Hora, Mimi ga Mieteru yo! Ep 12 english subbed,eng sub ">
 	<meta name="keywords" content="download Hora, Mimi ga Mieteru yo! episode 12, watch Hora, Mimi ga Mieteru yo! episode 12, Hora, Mimi ga Mieteru yo! " >
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
+	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

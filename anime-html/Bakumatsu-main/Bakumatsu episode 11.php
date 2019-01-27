@@ -2,7 +2,7 @@
 <html lang="en">
 <head>	
  
-	<title>Bakumatsu episode 11 - anime-world</title>
+	<title>Bakumatsu episode 11 - maxani</title>
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -10,7 +10,7 @@
 	<meta name="description" content="Bakumatsu episode 11">
 	<meta name="description" content="Bakumatsu episode 11,Bakumatsu ep 11, Bakumatsu Ep 11 english subbed,eng sub ">
 	<meta name="keywords" content="download Bakumatsu episode 11, watch Bakumatsu episode 11, Bakumatsu " >
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
+	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");

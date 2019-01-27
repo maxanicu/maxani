@@ -2,11 +2,7 @@
 <html lang="en">
 <head>	
  
-
 	<title>Yu☆Gi☆Oh! VRAINS episode 80 - maxani</title>
-  
-	<title>Yu☆Gi☆Oh! VRAINS episode 80 - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -14,11 +10,7 @@
 	<meta name="description" content="Yu☆Gi☆Oh! VRAINS episode 80">
 	<meta name="description" content="Yu☆Gi☆Oh! VRAINS episode 80,Yu☆Gi☆Oh! VRAINS ep 80, Yu☆Gi☆Oh! VRAINS Ep 80 english subbed,eng sub ">
 	<meta name="keywords" content="Yu☆Gi☆Oh! VRAINS episode 80, watch Yu☆Gi☆Oh! VRAINS episode 80, Yu☆Gi☆Oh! VRAINS " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.jpg" type="image/x-icon">
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.jpg" type="image/x-icon">
-  
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");
@@ -40,13 +32,8 @@ include("../anime_header.php");
 			<div class="next_inline" >
 				<a href="Yu Gi Oh! VRAINS-main.php" class="previous margin_theme" title="home">Home</a>
 
-
-				<!--
-				<a href="Yu Gi Oh! VRAINS episode 81.php" class="next round margin_theme" title="Ep. 81">&#8250;</a> -->
-  
 				
 				<a href="Yu Gi Oh! VRAINS episode 81.php" class="next round margin_theme" title="Ep. 81">&#8250;</a> 
-  
 			</div>
 		</div>
 </div>

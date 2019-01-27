@@ -2,22 +2,14 @@
 <html lang="en">
 <head>	
  
-
 	<title>Naruto Shippuden  - maxani</title>
-  
-	<title>Naruto Shippuden  - anime-world</title>
-  
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Naruto Shippuden  , Naruto Shippuden  subbed english ">
 	<meta name="keywords" content=" Naruto Shippuden  , Naruto Shippuden  episode 1 , Naruto Shippuden  episode 2, Naruto Shippuden  episode 490, Naruto Shippuden  episode 3, Naruto Shippuden,episode 330 naruto shippuden, naruto shippuden episode 498,naruto shippuden episode 486  " >
-
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
-  
-	<link rel="shortcut icon" href="../../anime_image/anime-world3.png" type="image/x-icon"  >
-  
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");
@@ -100,7 +92,6 @@ include("../anime_header.php");
 <div class="pagination_contain">
               <div class="pagination_anime_main_page">
                 <a href="Naruto Shippuden -main.php" class="active">1</a>
-
                 <a href="Naruto Shippuden -main_2.php" >2</a>
                 <a href="Naruto Shippuden -main_3.php" >3</a>
                 <a href="Naruto Shippuden -main_4.php" >4</a>
@@ -108,15 +99,6 @@ include("../anime_header.php");
                 <a href="Naruto Shippuden -main_6.php" >6</a>
                 <a href="Naruto Shippuden -main_7.php" >7</a>
                 <a href="Naruto Shippuden -main_50.php" >50</a>
-  
-                <a href="Naruto Shippuden -main-2.php" >2</a>
-                <a href="Naruto Shippuden -main-3.php" >3</a>
-                <a href="Naruto Shippuden -main-4.php" >4</a>
-                <a href="Naruto Shippuden -main-5.php" >5</a>
-                <a href="Naruto Shippuden -main-6.php" >6</a>
-                <a href="Naruto Shippuden -main-7.php" >7</a>
-                <a href="Naruto Shippuden -main-50.php" >50</a>
-  
               </div>
             </div>
 <?php

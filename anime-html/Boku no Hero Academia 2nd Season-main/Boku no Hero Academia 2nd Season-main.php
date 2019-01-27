@@ -131,7 +131,7 @@ include("../anime_header.php");
 <div class="pagination_contain">
               <div class="pagination_anime_main_page">
                 <a href="Boku no Hero Academia 2nd Season-main.php" class="active">1</a>
-                <a href="Boku no Hero Academia 2nd Season-main_2.php" >2</a>
+                <a href="Boku no Hero Academia 2nd Season-main-2.php" >2</a>
                 <!-- <a href="#">3</a> -->
               </div>
             </div>
