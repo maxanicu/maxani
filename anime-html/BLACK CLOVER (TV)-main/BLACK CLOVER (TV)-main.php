@@ -38,6 +38,14 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="BLACK CLOVER (TV) episode 67.php"><img src="../../anime_image/Black Clover (TV).jpg" alt="BLACK CLOVER (TV)"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 67</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="BLACK CLOVER (TV) episode 66.php"><img src="../../anime_image/Black Clover (TV).jpg" alt="BLACK CLOVER (TV)"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

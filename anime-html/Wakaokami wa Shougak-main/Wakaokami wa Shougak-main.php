@@ -71,6 +71,7 @@ include("../anime_header.php");
   <div class="pagination_anime_main_page">
     <a href="Wakaokami wa Shougak-main.php" class="active">1</a>
     <a href="Wakaokami wa Shougak-main-1.php" >2</a>
+    <a href="Wakaokami wa Shougak-main-2.php" >3</a>
   </div>
 </div>
 <?php

@@ -36,6 +36,14 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="Captain Tsubasa (2018) episode 42.php"><img src="../../anime_image/Captain Tsubasa (2018).jpg" alt="Captain Tsubasa (2018)"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 42</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="Captain Tsubasa (2018) episode 41.php"><img src="../../anime_image/Captain Tsubasa (2018).jpg" alt="Captain Tsubasa (2018)"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

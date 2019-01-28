@@ -31,8 +31,8 @@ include("../anime_header.php");
 			<a href="Captain Tsubasa (2018) episode 40.php" class="previous round" title="Ep. 40">&#8249;</a>
 			<div class="next_inline" >
 				<a href="Captain Tsubasa (2018)-main.php" class="previous margin_theme" title="home">Home</a>
-				<!--
-				<a href="Captain Tsubasa (2018) episode 42.php" class="next round margin_theme" title="Ep. 42" >&#8250;</a> -->
+				
+				<a href="Captain Tsubasa (2018) episode 42.php" class="next round margin_theme" title="Ep. 42" >&#8250;</a> 
 			</div>
 	</div>
 </div>

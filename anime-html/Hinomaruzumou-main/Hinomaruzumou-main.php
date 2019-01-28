@@ -36,6 +36,22 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="Hinomaruzumou episode 15.php"><img src="../../anime_image/Hinomaruzumou.jpg" alt="Hinomaruzumou"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 15</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
+				<a href="Hinomaruzumou episode 14.php"><img src="../../anime_image/Hinomaruzumou.jpg" alt="Hinomaruzumou"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 14</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="Hinomaruzumou episode 13.php"><img src="../../anime_image/Hinomaruzumou.jpg" alt="Hinomaruzumou"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

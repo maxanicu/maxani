@@ -30,8 +30,8 @@ include("../anime_header.php");
 	<div style=" margin-top: 30px;" class="margin_theme margin">
 		<a href="BLACK CLOVER (TV) episode 65.php" class="previous round" title="Ep. 65">&#8249;</a>
 		<a href="BLACK CLOVER (TV)-main.php" class="previous " title="Home">Home</a>
-		<!--
-		<a href="BLACK CLOVER (TV) episode 67.php" class="next round margin_theme" title="Ep. 67">&#8250;</a> -->
+		
+		<a href="BLACK CLOVER (TV) episode 67.php" class="next round margin_theme" title="Ep. 67">&#8250;</a> 
 	</div>
 </div>
 <?php

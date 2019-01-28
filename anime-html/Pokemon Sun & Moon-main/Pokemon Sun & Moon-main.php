@@ -38,6 +38,14 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="Pokemon Sun & Moon episode 105.php"><img src="../../anime_image/Pokemon Sun & Moon.jpg" alt="Pokemon Sun & Moon"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 105</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="Pokemon Sun & Moon episode 104.php"><img src="../../anime_image/Pokemon Sun & Moon.jpg" alt="Pokemon Sun & Moon"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

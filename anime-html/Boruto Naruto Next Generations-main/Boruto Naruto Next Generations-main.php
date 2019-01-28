@@ -38,6 +38,22 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="Boruto Naruto Next Generations 91.php"><img src="../../anime_image/boruto.jpg" alt="Boruto Naruto Next Generations"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode  91</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
+				<a href="Boruto Naruto Next Generations 90.php"><img src="../../anime_image/boruto.jpg" alt="Boruto Naruto Next Generations"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode  90</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="Boruto Naruto Next Generations 89.php"><img src="../../anime_image/boruto.jpg" alt="Boruto Naruto Next Generations"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">
