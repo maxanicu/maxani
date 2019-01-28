@@ -37,6 +37,12 @@ $(document).ready(function(){
     "gener" : "",
 },
 {
+  "title_anime" :"Dragon Ball Super Movie Broly",
+  "image" :"anime_image/Dragon Ball Super Movie Broly.jpg",
+    "url" : "anime-html/Dragon Ball Super Movie Broly-main/Dragon Ball Super Movie Broly-main.php",
+    "gener" : "",
+},
+{
   "title_anime" :"Double Decker! Doug & Kirill",
   "image" :"anime_image/Double Decker! Doug & Kirill.jpg",
     "url" : "anime-html/Double Decker! Doug & Kirill-main/Double Decker! Doug & Kirill-main.php",
