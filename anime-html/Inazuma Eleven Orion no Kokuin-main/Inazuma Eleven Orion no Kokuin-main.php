@@ -34,6 +34,14 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="Inazuma Eleven Orion no Kokuin episode 14.php"><img src="../../anime_image/Inazuma Eleven Orion no Kokuin.jpg" alt="Inazuma Eleven Orion no Kokuin"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 14</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="Inazuma Eleven Orion no Kokuin episode 13.php"><img src="../../anime_image/Inazuma Eleven Orion no Kokuin.jpg" alt="Inazuma Eleven Orion no Kokuin"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

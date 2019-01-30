@@ -35,6 +35,14 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="Kaze ga Tsuyoku Fuiteiru episode 15.php"><img src="../../anime_image/Kaze ga Tsuyoku Fuiteiru.jpg" alt="Kaze ga Tsuyoku Fuiteiru"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 15</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="Kaze ga Tsuyoku Fuiteiru episode 14.php"><img src="../../anime_image/Kaze ga Tsuyoku Fuiteiru.jpg" alt="Kaze ga Tsuyoku Fuiteiru"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">
