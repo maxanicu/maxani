@@ -36,15 +36,6 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
-				<a href="Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo episode 13.php"><img src="../../anime_image/Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo
-				.jpg" alt="Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo"  class="img_gemeral"></a>
-			</div>
-			<div class="title_episode">
-				<h2 class="anime">Episode 13</h2>
-			</div>
-		</div>
-		<div class="thumb_update">
-			<div class="viewer">
 				<a href="Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo episode 12.php"><img src="../../anime_image/Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo
 				.jpg" alt="Merc Storia Mukiryoku no Shounen to Bin no Naka no Shoujo"  class="img_gemeral"></a>
 			</div>

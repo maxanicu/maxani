@@ -153,7 +153,7 @@ $Friday = [];
  $Friday["Gurazeni Season 2"] =[
   "title" =>"Gurazeni Season 2",
   "time" =>"4:45 PM ",
-  "image" =>"anime_image/Gurazeni Season 2.jpg",
+  "image" =>"anime_image/gurazeni.jpg",
     "url" => "anime-html/Gurazeni Season 2-main/Gurazeni Season 2-main.php",
 ];
  $Friday["Toaru Majutsu no Index III"] =[

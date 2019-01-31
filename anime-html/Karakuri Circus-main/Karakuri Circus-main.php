@@ -36,6 +36,14 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="Karakuri Circus episode 15.php"><img src="../../anime_image/Karakuri Circus.jpg" alt="Karakuri Circus"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 15</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="Karakuri Circus episode 14.php"><img src="../../anime_image/Karakuri Circus.jpg" alt="Karakuri Circus"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

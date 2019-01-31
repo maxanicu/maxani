@@ -120,7 +120,7 @@ include("../anime_header.php");
 <div class="pagination_contain size">
   <div class="pagination_anime_main_page">
     <a href="Toaru Majutsu no Index III-main.php" >1</a>
-    <a href="Toaru Majutsu no Index III-main 1.php" class="active">2</a>
+    <a href="Toaru Majutsu no Index III-main-1.php" class="active">2</a>
   </div>
 </div>
 <?php

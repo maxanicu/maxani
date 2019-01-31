@@ -9,7 +9,7 @@
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	<meta name="description" content="Yu☆Gi☆Oh! VRAINS, Yu☆Gi☆Oh! VRAINS subbed english ">
 	<meta name="keywords" content=" Yu☆Gi☆Oh! VRAINS, Yu☆Gi☆Oh! VRAINS episode 1 , Yu☆Gi☆Oh! VRAINS episode 2, Yu☆Gi☆Oh! VRAINS episode 3, Yu☆Gi☆Oh! VRAINS" >
-	<link rel="shortcut icon" href="../../anime_image/maxani3.jpg" type="image/x-icon">
+	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon">
 	<link rel="stylesheet" type="text/css" href="../../css/anime_main.css">
 <?php
 include("../anime_header.php");

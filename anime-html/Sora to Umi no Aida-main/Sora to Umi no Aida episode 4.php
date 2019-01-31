@@ -25,7 +25,7 @@ include("../anime_header.php");
 	<div class="container_div" >  <br>
 		<br>
 		<h3>Episode 4 </h3>
-		<div class="frame-contain"><iframe src="httsp://vidstreaming.io/streaming.php?id=MTEwNzc5&amp;title=Sora+to+Umi+no+Aida+Episode+4" allowfullscreen="true" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="100%" height="100%"></iframe></div>
+		<div class="frame-contain"><iframe src="https://vidstreaming.io/streaming.php?id=MTEwNzc5&amp;title=Sora+to+Umi+no+Aida+Episode+4" allowfullscreen="true" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="100%" height="100%"></iframe></div>
 	</div>
 	<div style=" margin-top: 30px;" class="margin_theme margin">
 		<a href="Sora to Umi no Aida episode 3.php" class="previous round" title="Ep. 3">&#8249;</a>

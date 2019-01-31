@@ -10,7 +10,7 @@
 	<meta name="description" content="Yu☆Gi☆Oh! VRAINS episode 75">
 	<meta name="description" content="Yu☆Gi☆Oh! VRAINS episode 75,Yu☆Gi☆Oh! VRAINS ep 75, Yu☆Gi☆Oh! VRAINS Ep 75 english subbed,eng sub ">
 	<meta name="keywords" content="Yu☆Gi☆Oh! VRAINS episode 75, watch Yu☆Gi☆Oh! VRAINS episode 75, Yu☆Gi☆Oh! VRAINS " >
-	<link rel="shortcut icon" href="../../anime_image/maxani3.jpg" type="image/x-icon">
+	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon">
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
 include("../anime_header.php");
