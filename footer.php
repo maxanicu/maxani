@@ -43,6 +43,12 @@ $(document).ready(function(){
     "gener" : "",
 },
 {
+  "title_anime" :"Boogiepop wa Warawanai (2019)",
+  "image" :"anime_image/Boogiepop wa Warawanai (2019).jpg",
+    "url" : "anime-html/Boogiepop wa Warawanai (2019)-main/Boogiepop wa Warawanai (2019)-main.php",
+    "gener" : "",
+},
+{
   "title_anime" :"Double Decker! Doug & Kirill",
   "image" :"anime_image/Double Decker! Doug & Kirill.jpg",
     "url" : "anime-html/Double Decker! Doug & Kirill-main/Double Decker! Doug & Kirill-main.php",

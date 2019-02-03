@@ -30,8 +30,8 @@ include("../anime_header.php");
 	<div style=" margin-top: 30px;" class="margin_theme margin">
 		<a href="Layton Mystery Tanteisha Katri no Nazotoki File episode 39.php" class="previous round" title="Ep.39">&#8249;</a>
 		<a href="Layton Mystery Tanteisha Katri no Nazotoki File-main.php" class="previous " title="Home">Home</a>
-		<!--
-		<a href="Layton Mystery Tanteisha Katri no Nazotoki File episode 41.php" class="next round margin_theme" title="Ep.41">&#8250;</a> -->
+		
+		<a href="Layton Mystery Tanteisha Katri no Nazotoki File episode 41.php" class="next round margin_theme" title="Ep.41">&#8250;</a> 
 	</div>
 </div>
 <?php

@@ -38,6 +38,30 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="Sword Art Online Alicization episode 17.php"><img src="../../anime_image/Sword Art Online Alicization.jpg" alt="Sword Art Online Alicization"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 17</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
+				<a href="Sword Art Online Alicization episode 16.php"><img src="../../anime_image/Sword Art Online Alicization.jpg" alt="Sword Art Online Alicization"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 16</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
+				<a href="Sword Art Online Alicization episode 15.php"><img src="../../anime_image/Sword Art Online Alicization.jpg" alt="Sword Art Online Alicization"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 15</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="Sword Art Online Alicization episode 14.php"><img src="../../anime_image/Sword Art Online Alicization.jpg" alt="Sword Art Online Alicization"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

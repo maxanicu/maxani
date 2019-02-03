@@ -30,8 +30,8 @@ include("../anime_header.php");
 			<a href="Sword Art Online Alicization episode 13.php" class="previous round" title="Ep. 13">&#8249;</a>
 			<div class="next_inline" >
 				<a href="Sword Art Online Alicization-main.php" class="previous margin_theme" title="home">Home</a>
-				<!--
-				<a href="Sword Art Online Alicization episode 15.php" class="next round margin_theme" title="Ep. 15" >&#8250;</a> -->
+				
+				<a href="Sword Art Online Alicization episode 15.php" class="next round margin_theme" title="Ep. 15" >&#8250;</a> 
 			</div>
 		</div>
 </div>

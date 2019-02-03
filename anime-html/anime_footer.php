@@ -72,6 +72,12 @@ $(document).ready(function() {
     "gener" : "",
 },
 {
+  "title_anime" :"Boogiepop wa Warawanai (2019)",
+  "image" :"../../anime_image/Boogiepop wa Warawanai (2019).jpg",
+    "url" : "../../anime-html/Boogiepop wa Warawanai (2019)-main/Boogiepop wa Warawanai (2019)-main.php",
+    "gener" : "",
+},
+{
   "title_anime" :"Otona no Bouguya-san",
   "image" :"../../anime_image/Otona no Bouguya-san.jpg",
     "url" : "../../anime-html/Otona no Bouguya-san-main/Otona no Bouguya-san-main.php",

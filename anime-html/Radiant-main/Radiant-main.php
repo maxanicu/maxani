@@ -37,6 +37,14 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="Radiant episode 18.php"><img src="../../anime_image/Radiant.jpg" alt="Radiant"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 18</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="Radiant episode 17.php"><img src="../../anime_image/Radiant.jpg" alt="Radiant"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

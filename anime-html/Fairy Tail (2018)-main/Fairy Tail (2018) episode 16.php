@@ -30,8 +30,8 @@ include("../anime_header.php");
 	<div style=" margin-top: 30px;" class="margin_theme margin">
 		<a href="Fairy Tail (2018) episode 15.php" class="previous round" title="Ep. 15">&#8249;</a>
 		<a href="Fairy Tail (2018)-main.php" class="previous " title="Home">Home</a>
-		<!--
-		<a href="Fairy Tail (2018) episode 17.php" class="next round margin_theme" title="Ep. 17">&#8250;</a> -->
+		
+		<a href="Fairy Tail (2018) episode 17.php" class="next round margin_theme" title="Ep. 17">&#8250;</a> 
 	</div>
 </div>
 <?php

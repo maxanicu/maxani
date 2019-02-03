@@ -2,13 +2,13 @@
 <html lang="en">
 <head>	
  
-	<title>Boruto: Naruto Next Generations episode 91 - maxani</title>
+	<title>Boruto: Naruto Next Generations episode 92 - maxani</title>
 	<meta charset="UTF-8">  <meta name="robots" content="index, follow">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
-	<meta name="description" content="boruto naruto next generetion episode 91">
-	<meta name="keywords" content="Boruto: Naruto Next Generations Episode 91, Boruto: Naruto Next Generations ep 91, Ep 91,English Subbed">
+	<meta name="description" content="boruto naruto next generetion episode 92">
+	<meta name="keywords" content="Boruto: Naruto Next Generations Episode 92, Boruto: Naruto Next Generations ep 92, Ep 92,English Subbed">
 	<link rel="shortcut icon" href="../../anime_image/maxani3.png" type="image/x-icon"  >
 	<link rel="stylesheet" type="text/css" href="../../css/nanatsu_no.css">
 <?php
@@ -23,15 +23,15 @@ include("../anime_header.php");
 <div style="margin-bottom: 50px;">
 	<div class="container_div" >  <br>
 		<br>
-		<h3>Episode 91</h3>
-		<div class="frame-contain"><iframe src="https://vidstreaming.io/streaming.php?id=MTEyOTAx&amp;title=Boruto%3A+Naruto+Next+Generations+Episode+91" allowfullscreen="true" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="100%" height="100%"></iframe></div>
+		<h3>Episode 92</h3>
+		<div class="frame-contain"><iframe src="https://vidstreaming.io/streaming.php?id=MTEzMTc2&amp;title=Boruto%3A+Naruto+Next+Generations+Episode+92" allowfullscreen="true" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="100%" height="100%"></iframe></div>
 	</div>
 			<div style=" margin-top: 30px; " class="margin_theme margin">
-			<a href="Boruto Naruto Next Generations 90.php" class="previous round" title="Ep. 90">&#8249;</a>
+			<a href="Boruto Naruto Next Generations 91.php" class="previous round" title="Ep. 91">&#8249;</a>
 			<div class="next_inline" >
 				<a href="Boruto Naruto Next Generations-main.php" class="previous margin_theme" title="home">Home</a>
-				
-				<a href="Boruto Naruto Next Generations 92.php" class="next round margin_theme" title="Ep. 92" >&#8250;</a> 
+				<!--
+				<a href="Boruto Naruto Next Generations 93.php" class="next round margin_theme" title="Ep. 93" >&#8250;</a> -->
 			</div>
 		</div>
 </div>

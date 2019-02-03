@@ -36,6 +36,14 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="JoJo no Kimyou na Bouken Ougon no Kaze episode 17.php"><img src="../../anime_image/JoJo no Kimyou na Bouken Ougon no Kaze.jpg" alt="JoJo no Kimyou na Bouken Ougon no Kaze"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 17</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="JoJo no Kimyou na Bouken Ougon no Kaze episode 16.php"><img src="../../anime_image/JoJo no Kimyou na Bouken Ougon no Kaze.jpg" alt="JoJo no Kimyou na Bouken Ougon no Kaze"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

@@ -36,6 +36,14 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="Layton Mystery Tanteisha Katri no Nazotoki File episode 41.php"><img src="../../anime_image/Layton Mystery Tanteisha Katri no Nazotoki File.jpg" alt="Layton Mystery Tanteisha Katri no Nazotoki File"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 41</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="Layton Mystery Tanteisha Katri no Nazotoki File episode 40.php"><img src="../../anime_image/Layton Mystery Tanteisha Katri no Nazotoki File.jpg" alt="Layton Mystery Tanteisha Katri no Nazotoki File"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">
