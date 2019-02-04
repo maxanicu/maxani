@@ -79,6 +79,18 @@ $(document).ready(function(){
     "gener" : "",
 },
 {
+  "title_anime" :"Tate no Yuusha no Nariagari",
+  "image" :"anime_image/Tate no Yuusha no Nariagari.jpg",
+    "url" : "anime-html/Tate no Yuusha no Nariagari-main/Tate no Yuusha no Nariagari-main.php",
+    "gener" : "",
+},
+{
+  "title_anime" :"Manaria Friends",
+  "image" :"anime_image/Manaria Friends.jpg",
+    "url" : "anime-html/Manaria Friends-main/Manaria Friends-main.php",
+    "gener" : "",
+},
+{
   "title_anime" :"JoJo no Kimyou na Bouken Ougon no Kaze",
   "image" :"anime_image/JoJo no Kimyou na Bouken Ougon no Kaze.jpg",
     "url" : "anime-html/JoJo no Kimyou na Bouken Ougon no Kaze-main/JoJo no Kimyou na Bouken Ougon no Kaze-main.php",
@@ -384,6 +396,24 @@ $(document).ready(function(){
   "title_anime" :"Kyoto Teramachi Sanjou no Holmes",
   "image" :"anime_image/Kyoto Teramachi Sanjou no Holmes.jpg",
     "url" : "anime-html/Kyoto Teramachi Sanjou no Holmes-main/Kyoto Teramachi Sanjou no Holmes-main.php",
+    "gener" : "",
+},
+ {
+  "title_anime" :"Yakusoku no Neverland",
+  "image" :"anime_image/Yakusoku no Neverland.jpg",
+    "url" : "anime-html/Yakusoku no Neverland-main/Yakusoku no Neverland-main.php",
+    "gener" : "",
+},
+ {
+  "title_anime" :"Kakegurui XX",
+  "image" :"anime_image/Kakegurui XX.jpg",
+    "url" : "anime-html/Kakegurui XX-main/Kakegurui XX-main.php",
+    "gener" : "",
+},
+ {
+  "title_anime" :"Mob Psycho 100 II",
+  "image" :"anime_image/Mob Psycho 100 II.jpg",
+    "url" : "anime-html/Mob Psycho 100 II-main/Mob Psycho 100 II-main.php",
     "gener" : "",
 },
  {
