@@ -31,8 +31,8 @@ include("../anime_header.php");
 			<a href="Tensei shitara Slime Datta Ken episode 16.php" class="previous round" title="Ep. 16">&#8249;</a>
 			<div class="next_inline" >
 				<a href="Tensei shitara Slime Datta Ken-main.php" class="previous margin_theme" title="home">Home</a>
-				<!--
-				<a href="Tensei shitara Slime Datta Ken episode 18.php" class="next round margin_theme" title="Ep. 18" >&#8250;</a> -->
+				
+				<a href="Tensei shitara Slime Datta Ken episode 18.php" class="next round margin_theme" title="Ep. 18" >&#8250;</a> 
 			</div>
 		</div>
 </div>

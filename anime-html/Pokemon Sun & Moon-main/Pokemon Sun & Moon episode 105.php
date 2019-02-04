@@ -30,8 +30,8 @@ include("../anime_header.php");
 	<div style=" margin-top: 30px;" class="margin_theme margin">
 		<a href="Pokemon Sun & Moon episode 104.php" class="previous round" title="Ep. 104">&#8249;</a>
 		<a href="Pokemon Sun & Moon-main.php" class="previous " title="Home">Home</a>
-		<!--
-		<a href="Pokemon Sun & Moon episode 106.php" class="next round margin_theme" title="Ep. 106">&#8250;</a> -->
+		
+		<a href="Pokemon Sun & Moon episode 106.php" class="next round margin_theme" title="Ep. 106">&#8250;</a> 
 	</div>
 </div>
 <?php
