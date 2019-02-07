@@ -38,6 +38,14 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="detective conan episode 929.php"><img src="../../anime_image/detective conan.jpg" alt="detective conan"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 929</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="detective conan episode 928.php"><img src="../../anime_image/detective conan.jpg" alt="detective conan"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

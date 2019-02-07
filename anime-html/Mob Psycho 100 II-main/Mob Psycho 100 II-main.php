@@ -37,6 +37,14 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="Mob Psycho 100 II episode 5.php"><img src="../../anime_image/Mob Psycho 100 II.jpg" alt="Mob Psycho 100 II"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 5</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="Mob Psycho 100 II episode 4.php"><img src="../../anime_image/Mob Psycho 100 II.jpg" alt="Mob Psycho 100 II"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

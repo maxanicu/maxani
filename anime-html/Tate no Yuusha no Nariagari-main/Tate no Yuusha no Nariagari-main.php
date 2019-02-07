@@ -40,6 +40,14 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="Tate no Yuusha no Nariagari episode 5.php"><img src="../../anime_image/Tate no Yuusha no Nariagari.jpg" alt="Tate no Yuusha no Nariagari"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 5</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="Tate no Yuusha no Nariagari episode 4.php"><img src="../../anime_image/Tate no Yuusha no Nariagari.jpg" alt="Tate no Yuusha no Nariagari"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

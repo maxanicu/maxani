@@ -30,8 +30,8 @@ include("../anime_header.php");
 	<div style=" margin-top: 30px;" class="margin_theme margin">
 		<a href="Inazuma Eleven Orion no Kokuin episode 13.php" class="previous round" title="Ep. 13">&#8249;</a>
 		<a href="Inazuma Eleven Orion no Kokuin-main.php" class="previous " title="Home">Home</a>
-		<!--
-		<a href="Inazuma Eleven Orion no Kokuin episode 15.php" class="next round margin_theme" title="Ep. 15">&#8250;</a> -->
+		
+		<a href="Inazuma Eleven Orion no Kokuin episode 15.php" class="next round margin_theme" title="Ep. 15">&#8250;</a> 
 	</div>
 </div>
 <?php

@@ -31,8 +31,8 @@ include("../anime_header.php");
 			<a href="Tate no Yuusha no Nariagari episode 3.php" class="previous round" title="Ep. 3">&#8249;</a>
 			<div class="next_inline" >
 				<a href="Tate no Yuusha no Nariagari-main.php" class="previous margin_theme" title="home">Home</a>
-				<!--
-				<a href="Tate no Yuusha no Nariagari episode 5.php" class="next round margin_theme" title="Ep. 5" >&#8250;</a> -->
+				
+				<a href="Tate no Yuusha no Nariagari episode 5.php" class="next round margin_theme" title="Ep. 5" >&#8250;</a> 
 			</div>
 		</div>
 </div>

@@ -38,6 +38,14 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="Yu Gi Oh! VRAINS episode 88.php"><img src="../../anime_image/Yu Gi Oh! VRAINS.jpg" alt="Yu☆Gi☆Oh! VRAINS"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 88</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="Yu Gi Oh! VRAINS episode 87.php"><img src="../../anime_image/Yu Gi Oh! VRAINS.jpg" alt="Yu☆Gi☆Oh! VRAINS"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">
