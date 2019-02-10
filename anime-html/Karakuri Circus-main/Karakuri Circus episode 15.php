@@ -30,9 +30,9 @@ include("../anime_header.php");
 	<div style=" margin-top: 30px;" class="margin_theme margin">
 		<a href="Karakuri Circus episode 14.php" class="previous round" title="Ep. 14">&#8249;</a>
 		<a href="Karakuri Circus-main.php" class="previous " title="Home">Home</a>
-		<!--
+		
 		<a href="Karakuri Circus episode 16.php" class="next round margin_theme" title="Ep. 16">&#8250;</a>
-	-->
+	
 	</div>
 </div>
 <?php

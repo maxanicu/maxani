@@ -36,6 +36,14 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="Gegege no Kitarou (2018) episode 43.php"><img src="../../anime_image/Gegege no Kitarou (2018).jpg" alt="Gegege no Kitarou (2018)"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 43</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="Gegege no Kitarou (2018) episode 42.php"><img src="../../anime_image/Gegege no Kitarou (2018).jpg" alt="Gegege no Kitarou (2018)"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

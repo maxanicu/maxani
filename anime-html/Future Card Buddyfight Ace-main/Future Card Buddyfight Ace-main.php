@@ -35,6 +35,14 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="Future Card Buddyfight Ace episode 36.php"><img src="../../anime_image/Future Card Buddyfight Ace.jpg" alt="Future Card Buddyfight Ace "  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 36</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="Future Card Buddyfight Ace episode 35.php"><img src="../../anime_image/Future Card Buddyfight Ace.jpg" alt="Future Card Buddyfight Ace "  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

@@ -38,6 +38,14 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="one piece episode 872.php"><img src="../../anime_image/one.jpg" alt="one piece"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 872</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="one piece episode 871.php"><img src="../../anime_image/one.jpg" alt="one piece"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">

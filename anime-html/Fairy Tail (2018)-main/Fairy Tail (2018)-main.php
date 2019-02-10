@@ -36,6 +36,14 @@ include("../anime_header.php");
 		<br>
 		<div class="thumb_update">
 			<div class="viewer">
+				<a href="Fairy Tail (2018) episode 18.php"><img src="../../anime_image/Fairy Tail (2018).jpg" alt="Fairy Tail (2018)"  class="img_gemeral"></a>
+			</div>
+			<div class="title_episode">
+				<h2 class="anime">Episode 18</h2>
+			</div>
+		</div>
+		<div class="thumb_update">
+			<div class="viewer">
 				<a href="Fairy Tail (2018) episode 17.php"><img src="../../anime_image/Fairy Tail (2018).jpg" alt="Fairy Tail (2018)"  class="img_gemeral"></a>
 			</div>
 			<div class="title_episode">
